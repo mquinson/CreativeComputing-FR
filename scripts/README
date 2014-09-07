@@ -1,0 +1,23 @@
+This directory contains some scripts that you need to work happily on
+that translation.
+
+Svg.pm: That's a new module for po4a which should deal with inkscape's
+        SVG files. It's rather simple and empty for now, but it can
+        already ensure that the word's x coordinates of the
+        translation are not the same than the original one. That's
+        mandatory to avoid buggy inter-letter spaces.
+	
+	Copy that file into /usr/share/perl5/Locale/Po4a/ and you're set.
+	Even better, add a symbolic link from there to the git copy of
+        that file.
+	
+text_merge.inx text_merge.py:
+        New extension for inkscape in charge of merging a bunch of
+        lines together. That's part of the upcoming release.
+	
+	Copy those file into /usr/share/inkscape/extensions/ Even
+	better, add a symbolic link from there to the git-handled file.
+	
+	This extension is known to be buggy if you merge texts that
+        are not of the same font, size or decoration, so don't do that.
+	

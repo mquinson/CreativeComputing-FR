@@ -1,0 +1,2816 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2014-09-06 02:18+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Content of: <svg><metadata><rdf:RDF><cc:Work><dc:format>
+#: svgs/en-p11.svg:20 svgs/en-p12.svg:20 svgs/en-p13.svg:21 svgs/en-p14.svg:21 svgs/en-p15.svg:21 svgs/en-p16.svg:21 svgs/en-p17.svg:21 svgs/en-p18.svg:21 svgs/en-p19.svg:21 svgs/en-p20.svg:21 svgs/en-p21.svg:21 svgs/en-p22.svg:21 svgs/en-p23.svg:21 svgs/en-p24.svg:21 svgs/en-p25.svg:20 svgs/en-p26.svg:20
+#, no-wrap
+msgid "image/svg+xml"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p11.svg:209
+#, no-wrap
+msgid "INTRODUCING SCRATCH"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p11.svg:223 svgs/en-p14.svg:1725
+#, no-wrap
+msgid "10"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p11.svg:240 svgs/en-p16.svg:1366 svgs/en-p17.svg:596
+#, no-wrap
+msgid "SCRATCH ACCOUNT"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p11.svg:258 svgs/en-p16.svg:1409
+#, no-wrap
+msgid "12"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p11.svg:275 svgs/en-p18.svg:1246
+#, no-wrap
+msgid "DESIGN JOURNAL"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p11.svg:289 svgs/en-p18.svg:1339
+#, no-wrap
+msgid "14"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p11.svg:306 svgs/en-p20.svg:820 svgs/en-p21.svg:591
+#, no-wrap
+msgid "SCRATCH SURPRISE"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p11.svg:320 svgs/en-p20.svg:1390
+#, no-wrap
+msgid "16"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p11.svg:337 svgs/en-p22.svg:1253 svgs/en-p23.svg:563
+#, no-wrap
+msgid "SCRATCH STUDIO"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p11.svg:351 svgs/en-p22.svg:1346
+#, no-wrap
+msgid "18"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p11.svg:368
+#, no-wrap
+msgid "CRITIQUE GROUP "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p11.svg:382 svgs/en-p24.svg:1145
+#, no-wrap
+msgid "20"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p11.svg:413
+#, no-wrap
+msgid "WHAT’S INCLUDED"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p11.svg:430
+#, no-wrap
+msgid "YOU ARE HERE"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p11.svg:489
+#, no-wrap
+msgid "1"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p11.svg:511
+#, no-wrap
+msgid "2"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p11.svg:530
+#, no-wrap
+msgid "3"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p11.svg:549
+#, no-wrap
+msgid "4"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p11.svg:568
+#, no-wrap
+msgid "5"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p11.svg:587
+#, no-wrap
+msgid "6"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p11.svg:603
+#, no-wrap
+msgid "0"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p11.svg:622 svgs/en-p12.svg:454
+#, no-wrap
+msgid "UNIT 0"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p11.svg:639
+#, no-wrap
+msgid "GETTING STARTED"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p11.svg:655
+#, no-wrap
+msgid "7"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:78
+#, no-wrap
+msgid "THE “BIG IDEA”"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:95
+#, no-wrap
+msgid "When we shared a draft of this guide with teachers, "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:105
+#, no-wrap
+msgid "a common initial reaction was, “Unit 0?!? Why 0?”"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:131
+#, no-wrap
+msgid "We hoped to communicate that this is a "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:141
+#, no-wrap
+msgid "preparatory"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:153
+#, no-wrap
+msgid "unit, supporting you in establishing a culture of "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:163
+#, no-wrap
+msgid "creative computing through creating, personalizing, "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:173
+#, no-wrap
+msgid "sharing, and refecting. Our ambition to support this "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:183
+#, no-wrap
+msgid "type of learning culture will be evident throughout "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:193
+#, no-wrap
+msgid "the guide."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:219
+#, no-wrap
+msgid "Creative computing culture has an intellectual "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:229
+#, no-wrap
+msgid "dimension, engaging with a set of computational "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:239
+#, no-wrap
+msgid "concepts and practices. It has a physical dimension, "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:249
+#, no-wrap
+msgid "encouraging interactions with others through the "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:259
+#, no-wrap
+msgid "placement of desks, chairs, and computers. Most "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:269
+#, no-wrap
+msgid "importantly, it has an affective dimension, "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:279
+#, no-wrap
+msgid "cultivating a sense of confdence and fearlessness. "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:310
+#, no-wrap
+msgid "It really helps if you have kind of a culture or climate "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:320
+#, no-wrap
+msgid "in your classroom. It starts on the frst day – getting "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:330
+#, no-wrap
+msgid "kids to appreciate that they’re going to make mistakes "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:340
+#, no-wrap
+msgid "and that I’m going to be asking them to do stuff that is "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:350
+#, no-wrap
+msgid "hard. I always just put that right out there. And they "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:360
+#, no-wrap
+msgid "don’t, at frst, just because they want to succeed. Even "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:370
+#, no-wrap
+msgid "adults don’t like to fail, or make mistakes. But it is "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:380
+#, no-wrap
+msgid "important, I feel, that when you do run into diffculties "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:390
+#, no-wrap
+msgid "that it’s not time to give up or cry. It’s time to think "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:400
+#, no-wrap
+msgid "about the strategies that you have to solve your "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:410
+#, no-wrap
+msgid "problem, or to look for help. No reason to break down "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:420
+#, no-wrap
+msgid "or give up – you keep at it."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:437
+#, no-wrap
+msgid "TS, Elementary School Teacher"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:471
+#, no-wrap
+msgid "OVERVIEW"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:487 svgs/en-p12.svg:532 svgs/en-p12.svg:636 svgs/en-p12.svg:671 svgs/en-p12.svg:706 svgs/en-p12.svg:741 svgs/en-p12.svg:776 svgs/en-p12.svg:867 svgs/en-p12.svg:912 svgs/en-p12.svg:957 svgs/en-p12.svg:1002 svgs/en-p14.svg:609 svgs/en-p14.svg:644 svgs/en-p14.svg:716 svgs/en-p14.svg:992 svgs/en-p14.svg:1097 svgs/en-p14.svg:1469 svgs/en-p14.svg:1536 svgs/en-p16.svg:678 svgs/en-p16.svg:713 svgs/en-p16.svg:775 svgs/en-p16.svg:842 svgs/en-p16.svg:907 svgs/en-p16.svg:942 svgs/en-p16.svg:1235 svgs/en-p16.svg:1270 svgs/en-p18.svg:623 svgs/en-p18.svg:658 svgs/en-p18.svg:730 svgs/en-p18.svg:775 svgs/en-p18.svg:1041 svgs/en-p18.svg:1086 svgs/en-p18.svg:1200 svgs/en-p20.svg:615 svgs/en-p20.svg:650 svgs/en-p20.svg:712 svgs/en-p20.svg:747 svgs/en-p20.svg:875 svgs/en-p20.svg:1195 svgs/en-p20.svg:1270 svgs/en-p22.svg:590 svgs/en-p22.svg:625 svgs/en-p22.svg:687 svgs/en-p22.svg:722 svgs/en-p22.svg:767 svgs/en-p22.svg:802 svgs/en-p22.svg:1058 svgs/en-p22.svg:1182 svgs/en-p22.svg:1217 svgs/en-p24.svg:158 svgs/en-p24.svg:558 svgs/en-p24.svg:603 svgs/en-p24.svg:648 svgs/en-p24.svg:720 svgs/en-p24.svg:1003 svgs/en-p25.svg:117 svgs/en-p25.svg:152 svgs/en-p25.svg:187
+#, no-wrap
+msgid "+"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:496 svgs/en-p12.svg:541 svgs/en-p12.svg:645 svgs/en-p12.svg:680 svgs/en-p12.svg:715 svgs/en-p12.svg:750 svgs/en-p12.svg:785 svgs/en-p12.svg:876 svgs/en-p12.svg:921 svgs/en-p12.svg:966 svgs/en-p12.svg:1011 svgs/en-p14.svg:133 svgs/en-p14.svg:187 svgs/en-p14.svg:305 svgs/en-p14.svg:379 svgs/en-p14.svg:414 svgs/en-p14.svg:517 svgs/en-p14.svg:618 svgs/en-p14.svg:653 svgs/en-p14.svg:725 svgs/en-p14.svg:846 svgs/en-p14.svg:882 svgs/en-p14.svg:918 svgs/en-p14.svg:954 svgs/en-p14.svg:1001 svgs/en-p14.svg:1106 svgs/en-p14.svg:1478 svgs/en-p14.svg:1545 svgs/en-p16.svg:133 svgs/en-p16.svg:228 svgs/en-p16.svg:403 svgs/en-p16.svg:458 svgs/en-p16.svg:540 svgs/en-p16.svg:577 svgs/en-p16.svg:687 svgs/en-p16.svg:722 svgs/en-p16.svg:784 svgs/en-p16.svg:851 svgs/en-p16.svg:916 svgs/en-p16.svg:951 svgs/en-p16.svg:1050 svgs/en-p16.svg:1086 svgs/en-p16.svg:1122 svgs/en-p16.svg:1158 svgs/en-p16.svg:1244 svgs/en-p16.svg:1279 svgs/en-p17.svg:325 svgs/en-p17.svg:379 svgs/en-p17.svg:433 svgs/en-p18.svg:153 svgs/en-p18.svg:258 svgs/en-p18.svg:334 svgs/en-p18.svg:388 svgs/en-p18.svg:462 svgs/en-p18.svg:570 svgs/en-p18.svg:632 svgs/en-p18.svg:667 svgs/en-p18.svg:739 svgs/en-p18.svg:784 svgs/en-p18.svg:895 svgs/en-p18.svg:931 svgs/en-p18.svg:967 svgs/en-p18.svg:1003 svgs/en-p18.svg:1050 svgs/en-p18.svg:1095 svgs/en-p18.svg:1209 svgs/en-p20.svg:133 svgs/en-p20.svg:283 svgs/en-p20.svg:377 svgs/en-p20.svg:510 svgs/en-p20.svg:545 svgs/en-p20.svg:624 svgs/en-p20.svg:659 svgs/en-p20.svg:721 svgs/en-p20.svg:756 svgs/en-p20.svg:884 svgs/en-p20.svg:1049 svgs/en-p20.svg:1085 svgs/en-p20.svg:1121 svgs/en-p20.svg:1157 svgs/en-p20.svg:1204 svgs/en-p20.svg:1279 svgs/en-p21.svg:220 svgs/en-p21.svg:255 svgs/en-p21.svg:290 svgs/en-p21.svg:335 svgs/en-p21.svg:380 svgs/en-p22.svg:133 svgs/en-p22.svg:168 svgs/en-p22.svg:267 svgs/en-p22.svg:344 svgs/en-p22.svg:442 svgs/en-p22.svg:517 svgs/en-p22.svg:599 svgs/en-p22.svg:634 svgs/en-p22.svg:696 svgs/en-p22.svg:731 svgs/en-p22.svg:776 svgs/en-p22.svg:811 svgs/en-p22.svg:912 svgs/en-p22.svg:948 svgs/en-p22.svg:984 svgs/en-p22.svg:1020 svgs/en-p22.svg:1067 svgs/en-p22.svg:1191 svgs/en-p22.svg:1226 svgs/en-p23.svg:177 svgs/en-p23.svg:238 svgs/en-p23.svg:273 svgs/en-p23.svg:337 svgs/en-p24.svg:167 svgs/en-p24.svg:217 svgs/en-p24.svg:279 svgs/en-p24.svg:344 svgs/en-p24.svg:389 svgs/en-p24.svg:463 svgs/en-p24.svg:567 svgs/en-p24.svg:612 svgs/en-p24.svg:657 svgs/en-p24.svg:729 svgs/en-p24.svg:857 svgs/en-p24.svg:893 svgs/en-p24.svg:929 svgs/en-p24.svg:965 svgs/en-p24.svg:1012 svgs/en-p25.svg:126 svgs/en-p25.svg:161 svgs/en-p25.svg:196
+#, no-wrap
+msgid " "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:506
+#, no-wrap
+msgid "Coordinate with your IT department to make sure your "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:516
+#, no-wrap
+msgid "computers can access the Scratch website."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:551
+#, no-wrap
+msgid "Don’t have internet access? An offine version of Scratch is "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:561
+#, no-wrap
+msgid "available for download: "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:578 svgs/en-p14.svg:544 svgs/en-p16.svg:255 svgs/en-p16.svg:604 svgs/en-p20.svg:1316 svgs/en-p22.svg:195
+#, no-wrap
+msgid "http://"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:588 svgs/en-p14.svg:554 svgs/en-p16.svg:265 svgs/en-p16.svg:614 svgs/en-p20.svg:163 svgs/en-p22.svg:205
+#, no-wrap
+msgid "scratch.mit.edu"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:598
+#, no-wrap
+msgid "/scratch2download"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:615 svgs/en-p14.svg:794 svgs/en-p16.svg:998 svgs/en-p18.svg:843 svgs/en-p20.svg:997 svgs/en-p22.svg:860 svgs/en-p24.svg:805
+#, no-wrap
+msgid "NOTES"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:655
+#, no-wrap
+msgid "profle editor"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:690
+#, no-wrap
+msgid "project page"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:725
+#, no-wrap
+msgid "studio"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:760
+#, no-wrap
+msgid "critique croup"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:795
+#, no-wrap
+msgid "red, yellow, green"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:812
+#, no-wrap
+msgid "KEY WORDS, CONCEPTS, &amp; PRACTICES"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:834
+#, no-wrap
+msgid "LEARNING OBJECTIVES"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:851
+#, no-wrap
+msgid "Students will:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:886
+#, no-wrap
+msgid "be introduced to the concept of computational creation, in the "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:896
+#, no-wrap
+msgid "context of Scratch "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:931
+#, no-wrap
+msgid "be able to imagine possibilities for their own Scratch-based "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:941
+#, no-wrap
+msgid "computational creation"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:976
+#, no-wrap
+msgid "become familiar with resources that support their computational "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:986
+#, no-wrap
+msgid "creation"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:1021
+#, no-wrap
+msgid "prepare for creating Scratch projects by establishing Scratch "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:1031
+#, no-wrap
+msgid "accounts, exploring Scratch studios, creating design journals, and "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:1041
+#, no-wrap
+msgid "organizing critique groups"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p12.svg:1062
+#, no-wrap
+msgid "8"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:88
+#, no-wrap
+msgid "Ready to get started? This unit is designed for those who are "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:98
+#, no-wrap
+msgid "completely new to Scratch. From exploring inspiring projects, to "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:108
+#, no-wrap
+msgid "creating a Scratch account, to having an initial experience "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:118
+#, no-wrap
+msgid "playing with the Scratch project editor, each activity is designed "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:128
+#, no-wrap
+msgid "to guide you and your students through the process of getting "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:138
+#, no-wrap
+msgid "started with Scratch."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:164
+#, no-wrap
+msgid "In each unit, we offer a selection of activities – but we "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:174
+#, no-wrap
+msgid "encourage you to tinker with the choice and order of the "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:184
+#, no-wrap
+msgid "activities. Different contexts and audiences will invite different "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:194
+#, no-wrap
+msgid "experiences. Choose your own adventure by mixing and "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:204
+#, no-wrap
+msgid "matching the activities in ways that are most compelling for you "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:214
+#, no-wrap
+msgid "and the learners you support."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:240
+#, no-wrap
+msgid "Not sure where to start? For more support, check out the "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:250
+#, no-wrap
+msgid "suggested path through the activities provided below."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:327
+#, no-wrap
+msgid "SESSION 1"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:349
+#, no-wrap
+msgid "SESSION 2"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:368
+#, no-wrap
+msgid "Watch the Scratch "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:378
+#, no-wrap
+msgid "overview video "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:388
+#, no-wrap
+msgid "and imagine "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:398
+#, no-wrap
+msgid "what’s possible "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:408
+#, no-wrap
+msgid "with Scratch."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:428
+#, no-wrap
+msgid "INTRODUCING "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:438 svgs/en-p14.svg:1599
+#, no-wrap
+msgid "SCRATCH"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:455
+#, no-wrap
+msgid "Set up a Scratch "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:465
+#, no-wrap
+msgid "account to save "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:475
+#, no-wrap
+msgid "and share your "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:485 svgs/en-p13.svg:592
+#, no-wrap
+msgid "projects."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:505 svgs/en-p13.svg:689 svgs/en-p13.svg:719
+#, no-wrap
+msgid "SCRATCH "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:515
+#, no-wrap
+msgid "ACCOUNT"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:532
+#, no-wrap
+msgid "Create a design "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:542
+#, no-wrap
+msgid "journal to write "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:552
+#, no-wrap
+msgid "down notes and "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:562
+#, no-wrap
+msgid "refections on the "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:572
+#, no-wrap
+msgid "process of "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:582
+#, no-wrap
+msgid "designing Scratch "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:612
+#, no-wrap
+msgid "DESIGN "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:622
+#, no-wrap
+msgid "JOURNAL"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:639
+#, no-wrap
+msgid "Learn how to "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:649
+#, no-wrap
+msgid "create a studio "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:659
+#, no-wrap
+msgid "and add a project "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:669
+#, no-wrap
+msgid "to the studio."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:699
+#, no-wrap
+msgid "STUDIO"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:729
+#, no-wrap
+msgid "SURPRISE"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:746
+#, no-wrap
+msgid "Can you make the "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:756
+#, no-wrap
+msgid "Scratch cat do "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:766
+#, no-wrap
+msgid "something "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:776
+#, no-wrap
+msgid "surprising?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:793
+#, no-wrap
+msgid "Gather in small "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:803
+#, no-wrap
+msgid "peer groups to "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:813
+#, no-wrap
+msgid "give and receive "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:823
+#, no-wrap
+msgid "feedback on ideas "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:833
+#, no-wrap
+msgid "and projects "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:843
+#, no-wrap
+msgid "drafts."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:863
+#, no-wrap
+msgid "CRITIQUE "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:873
+#, no-wrap
+msgid "GROUP"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:904
+#, no-wrap
+msgid "9"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:924
+#, no-wrap
+msgid "POSSIBLE PATH"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p13.svg:944
+#, no-wrap
+msgid "CHOOSE YOUR OWN ADVENTURE"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:124 svgs/en-p14.svg:178 svgs/en-p14.svg:296 svgs/en-p14.svg:370 svgs/en-p14.svg:405 svgs/en-p14.svg:508 svgs/en-p14.svg:837 svgs/en-p14.svg:873 svgs/en-p14.svg:909 svgs/en-p14.svg:945 svgs/en-p16.svg:124 svgs/en-p16.svg:219 svgs/en-p16.svg:394 svgs/en-p16.svg:449 svgs/en-p16.svg:531 svgs/en-p16.svg:568 svgs/en-p16.svg:1041 svgs/en-p16.svg:1077 svgs/en-p16.svg:1113 svgs/en-p16.svg:1149 svgs/en-p17.svg:316 svgs/en-p17.svg:370 svgs/en-p17.svg:424 svgs/en-p18.svg:144 svgs/en-p18.svg:249 svgs/en-p18.svg:325 svgs/en-p18.svg:379 svgs/en-p18.svg:453 svgs/en-p18.svg:561 svgs/en-p18.svg:886 svgs/en-p18.svg:922 svgs/en-p18.svg:958 svgs/en-p18.svg:994 svgs/en-p20.svg:124 svgs/en-p20.svg:274 svgs/en-p20.svg:368 svgs/en-p20.svg:501 svgs/en-p20.svg:536 svgs/en-p20.svg:1040 svgs/en-p20.svg:1076 svgs/en-p20.svg:1112 svgs/en-p20.svg:1148 svgs/en-p21.svg:211 svgs/en-p21.svg:246 svgs/en-p21.svg:281 svgs/en-p21.svg:326 svgs/en-p21.svg:371 svgs/en-p22.svg:124 svgs/en-p22.svg:159 svgs/en-p22.svg:258 svgs/en-p22.svg:335 svgs/en-p22.svg:433 svgs/en-p22.svg:508 svgs/en-p22.svg:903 svgs/en-p22.svg:939 svgs/en-p22.svg:975 svgs/en-p22.svg:1011 svgs/en-p23.svg:168 svgs/en-p23.svg:229 svgs/en-p23.svg:264 svgs/en-p23.svg:328 svgs/en-p24.svg:208 svgs/en-p24.svg:270 svgs/en-p24.svg:335 svgs/en-p24.svg:380 svgs/en-p24.svg:454 svgs/en-p24.svg:848 svgs/en-p24.svg:884 svgs/en-p24.svg:920 svgs/en-p24.svg:956
+#, no-wrap
+msgid "!"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:143
+#, no-wrap
+msgid "Ask students about their experiences with computers using the "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:153
+#, no-wrap
+msgid "refection prompts to the right."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:197
+#, no-wrap
+msgid "Introduce students to creative computing with Scratch and the "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:207
+#, no-wrap
+msgid "range of projects they will be able to create by showing the "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:217 svgs/en-p14.svg:424
+#, no-wrap
+msgid "Scratch overview"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:229 svgs/en-p14.svg:436
+#, no-wrap
+msgid "video"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:241
+#, no-wrap
+msgid "and some sample projects that your "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:251
+#, no-wrap
+msgid "students will fnd engaging and inspiring. Explain that over the "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:261
+#, no-wrap
+msgid "next several sessions they will be creating their own interactive "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:271
+#, no-wrap
+msgid "computational media with Scratch"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:280 svgs/en-p24.svg:438
+#, no-wrap
+msgid "."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:315
+#, no-wrap
+msgid "What will you create? Ask students to imagine what types of "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:325
+#, no-wrap
+msgid "projects they want to create with Scratch."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:344 svgs/en-p16.svg:505 svgs/en-p18.svg:123 svgs/en-p18.svg:427 svgs/en-p20.svg:475 svgs/en-p22.svg:564 svgs/en-p24.svg:532
+#, no-wrap
+msgid "ACTIVITY DESCRIPTION"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:389
+#, no-wrap
+msgid "projector for showing Scratch overview video (optional)"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:453 svgs/en-p14.svg:480 svgs/en-p14.svg:1051
+#, no-wrap
+msgid "http"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:463
+#, no-wrap
+msgid "://vimeo.com/65583694"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:490
+#, no-wrap
+msgid "://youtu.be/-SjuiawRMU4"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:527
+#, no-wrap
+msgid "sample projects studio"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:564
+#, no-wrap
+msgid "/studios/137903"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:583 svgs/en-p16.svg:652 svgs/en-p18.svg:597 svgs/en-p20.svg:589 svgs/en-p22.svg:232 svgs/en-p24.svg:244
+#, no-wrap
+msgid "RESOURCES"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:628
+#, no-wrap
+msgid "What are the different ways you interact with computers?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:663
+#, no-wrap
+msgid "How many of those ways involve being creative with "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:673
+#, no-wrap
+msgid "computers?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:690 svgs/en-p16.svg:749 svgs/en-p18.svg:704 svgs/en-p20.svg:686 svgs/en-p22.svg:838 svgs/en-p24.svg:694
+#, no-wrap
+msgid "REFLECTION PROMPTS"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:735
+#, no-wrap
+msgid "Did students brainstorm a diverse range of project ideas? "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:745
+#, no-wrap
+msgid "If not, try showing a wide variety of projects to give "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:755
+#, no-wrap
+msgid "students a sense of the possibilities."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:772 svgs/en-p16.svg:821 svgs/en-p18.svg:821 svgs/en-p20.svg:793 svgs/en-p22.svg:661 svgs/en-p24.svg:766
+#, no-wrap
+msgid "REVIEWING STUDENT WORK"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:816 svgs/en-p16.svg:1020 svgs/en-p18.svg:865 svgs/en-p20.svg:1019 svgs/en-p22.svg:882 svgs/en-p24.svg:827
+#, no-wrap
+msgid "NOTES TO SELF"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1011
+#, no-wrap
+msgid "If you don’t have internet access, download the Scratch "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1021
+#, no-wrap
+msgid "overview video from "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1031
+#, no-wrap
+msgid "Vimeo"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1041
+#, no-wrap
+msgid "before class, available at "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1061
+#, no-wrap
+msgid "://"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1071
+#, no-wrap
+msgid "vimeo.com"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1081
+#, no-wrap
+msgid "/65583694"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1116
+#, no-wrap
+msgid "Instead"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1128
+#, no-wrap
+msgid "of"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1140
+#, no-wrap
+msgid "writing"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1150
+#, no-wrap
+msgid "out "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1160 svgs/en-p14.svg:1324
+#, no-wrap
+msgid "their"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1172
+#, no-wrap
+msgid "answers"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1184 svgs/en-p14.svg:1264
+#, no-wrap
+msgid "to"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1196
+#, no-wrap
+msgid "the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1208
+#, no-wrap
+msgid "refections"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1220
+#, no-wrap
+msgid "prompts"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1230
+#, no-wrap
+msgid ", "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1240
+#, no-wrap
+msgid "encourage"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1252
+#, no-wrap
+msgid "students"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1276
+#, no-wrap
+msgid "get"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1288
+#, no-wrap
+msgid "creative"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1300
+#, no-wrap
+msgid "by"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1312
+#, no-wrap
+msgid "drawing"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1334
+#, no-wrap
+msgid "responses. (e.g., “Draw "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1344
+#, no-wrap
+msgid "different"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1356
+#, no-wrap
+msgid "ways"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1368
+#, no-wrap
+msgid "you"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1380
+#, no-wrap
+msgid "interact"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1392
+#, no-wrap
+msgid "with"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1404
+#, no-wrap
+msgid "computers"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1414
+#, no-wrap
+msgid ".”)"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1436 svgs/en-p16.svg:1202 svgs/en-p18.svg:1167 svgs/en-p20.svg:842 svgs/en-p22.svg:1149 svgs/en-p24.svg:125
+#, no-wrap
+msgid "OBJECTIVES"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1453 svgs/en-p16.svg:1219 svgs/en-p18.svg:1184 svgs/en-p20.svg:859 svgs/en-p22.svg:1166 svgs/en-p24.svg:142
+#, no-wrap
+msgid "By completing this activity, students will:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1488
+#, no-wrap
+msgid "be introduced to computational creation with the "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1498
+#, no-wrap
+msgid "Scratch programming environment by watching the "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1508
+#, no-wrap
+msgid "Scratch overview video"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1520
+#, no-wrap
+msgid "or exploring sample projects"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1555
+#, no-wrap
+msgid "be able to imagine possibilities for their own Scratch-"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1565
+#, no-wrap
+msgid "based computational creation"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1582
+#, no-wrap
+msgid "INTRODUCING"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1616 svgs/en-p16.svg:1316 svgs/en-p18.svg:1289 svgs/en-p20.svg:947 svgs/en-p22.svg:1296 svgs/en-p24.svg:1095
+#, no-wrap
+msgid "SUGGESTED TIME"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1633 svgs/en-p16.svg:1333 svgs/en-p22.svg:1313
+#, no-wrap
+msgid "5–15 MINUTES"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p14.svg:1708 svgs/en-p16.svg:1442 svgs/en-p18.svg:1372 svgs/en-p20.svg:1423 svgs/en-p22.svg:1379 svgs/en-p24.svg:1178
+#, no-wrap
+msgid "UNIT 0 ACTIVITY"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:143
+#, no-wrap
+msgid "Scratch online accounts require an email address. "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:153
+#, no-wrap
+msgid "If students "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:163
+#, no-wrap
+msgid "cannot provide a personal or school email address, a "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:173
+#, no-wrap
+msgid "teacher or parent/guardian email address may be used"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:183 svgs/en-p16.svg:295
+#, no-wrap
+msgid ". "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:193
+#, no-wrap
+msgid "Plan in advance if permission slips for online accounts need to "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:203
+#, no-wrap
+msgid "be collected."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:238
+#, no-wrap
+msgid "Help students navigate to the Scratch website at "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:275
+#, no-wrap
+msgid "and click on “Join Scratch” to get "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:285
+#, no-wrap
+msgid "started creating a Scratch account"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:305
+#, no-wrap
+msgid "Optionally, have the Scratch "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:315
+#, no-wrap
+msgid "Account handout"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:327 svgs/en-p22.svg:319
+#, no-wrap
+msgid "available to guide students."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:337
+#, no-wrap
+msgid "Give students "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:347
+#, no-wrap
+msgid "time to register, update their Scratch profle page, and "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:357
+#, no-wrap
+msgid "explore the Scratch online community. Encourage students "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:367
+#, no-wrap
+msgid "to practice signing in and out of their accounts."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:413
+#, no-wrap
+msgid "To make it easier for members of the class to fnd and "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:423
+#, no-wrap
+msgid "follow one another’s Scratch profles, consider creating a "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:433
+#, no-wrap
+msgid "class list of usernames and names."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:468
+#, no-wrap
+msgid "Examine the Scratch community guidelines as a group to "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:478
+#, no-wrap
+msgid "discuss respectful and constructive behavior. Review how to "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:488
+#, no-wrap
+msgid "report inappropriate posts on the website."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:550
+#, no-wrap
+msgid "Scratch Account handout"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:587 svgs/en-p16.svg:1299
+#, no-wrap
+msgid "Scratch community guidelines"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:623
+#, no-wrap
+msgid "/"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:633
+#, no-wrap
+msgid "community_guidelines"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:697
+#, no-wrap
+msgid "What is your Scratch account username?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:732
+#, no-wrap
+msgid "What is a hint to help you remember your password?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:794
+#, no-wrap
+msgid "Were students able to create Scratch accounts and "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:804
+#, no-wrap
+msgid "successfully sign in and out of the Scratch website?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:861
+#, no-wrap
+msgid "Teachers may prefer providing their email or creating a "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:871
+#, no-wrap
+msgid "class email address, as notifcations of any inappropriate "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:881
+#, no-wrap
+msgid "behavior on the Scratch website will be sent to the email "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:891
+#, no-wrap
+msgid "that is registered with the account."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:926
+#, no-wrap
+msgid "Check if any students already have an online account."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:961
+#, no-wrap
+msgid "To remember passwords while maintaining privacy, have "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:971
+#, no-wrap
+msgid "students write down their username and password in sealed "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:981
+#, no-wrap
+msgid "envelopes that are kept in a secure place in the classroom."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:1254
+#, no-wrap
+msgid "create a Scratch account"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p16.svg:1289
+#, no-wrap
+msgid "explore the Scratch online community and review the "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p17.svg:187 svgs/en-p17.svg:204
+#, no-wrap
+msgid "FINISHED?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p17.svg:226
+#, no-wrap
+msgid "NEW TO SCRATCH? GET STARTED BY "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p17.svg:236
+#, no-wrap
+msgid "CREATING YOUR SCRATCH ACCOUNT!"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p17.svg:253
+#, no-wrap
+msgid "You will need a Scratch account to create, "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p17.svg:263
+#, no-wrap
+msgid "save, and share your Scratch projects. The "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p17.svg:273
+#, no-wrap
+msgid "steps below will walk you through creating a "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p17.svg:283
+#, no-wrap
+msgid "new account and setting up your profle."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p17.svg:300 svgs/en-p21.svg:195 svgs/en-p23.svg:147
+#, no-wrap
+msgid "START HERE"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p17.svg:335
+#, no-wrap
+msgid "Open a web browser and navigate to the Scratch "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p17.svg:345
+#, no-wrap
+msgid "website: http://scratch.mit.edu"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p17.svg:389
+#, no-wrap
+msgid "On the homepage, click on “Join Scratch” at the top "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p17.svg:399
+#, no-wrap
+msgid "on the right or in the blue circle."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p17.svg:443
+#, no-wrap
+msgid "Complete the three steps to sign up for your very "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p17.svg:453
+#, no-wrap
+msgid "own Scratch account!"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:163
+#, no-wrap
+msgid "Introduce students to the idea of the design journal, a physical "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:173
+#, no-wrap
+msgid "or digital notebook where they can brainstorm ideas and share "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:183
+#, no-wrap
+msgid "personal refections, similar to a personal journal or diary. "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:193
+#, no-wrap
+msgid "Explain that students will be prompted to update their design "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:203
+#, no-wrap
+msgid "journals throughout their Scratch programming adventures, "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:213
+#, no-wrap
+msgid "but encourage them to add to their journals anytime during "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:223
+#, no-wrap
+msgid "the process of designing projects to capture ideas, inspiration, "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:233
+#, no-wrap
+msgid "notes, sketches, questions, frustrations, triumphs, etc."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:268
+#, no-wrap
+msgid "Look through sample design journals to get ideas for what "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:278
+#, no-wrap
+msgid "type of design journals (paper or digital) will work best for "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:288
+#, no-wrap
+msgid "your students. Give students time to start and personalize "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:298 svgs/en-p24.svg:513
+#, no-wrap
+msgid "their design journals."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:344
+#, no-wrap
+msgid "Ask students to create their frst design journal post by "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:354
+#, no-wrap
+msgid "responding to the refection prompts on the right."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:398
+#, no-wrap
+msgid "Encourage students to share their design journals and "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:408
+#, no-wrap
+msgid "initial refections with a neighbor."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:472
+#, no-wrap
+msgid "sample design journals"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:491
+#, no-wrap
+msgid "http://bit.ly/designjournal-paper"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:508
+#, no-wrap
+msgid "http://bit.ly/"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:518
+#, no-wrap
+msgid "designjournal"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:528
+#, no-wrap
+msgid "-digital"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:545
+#, no-wrap
+msgid "http://bit.ly/designjournal-blog"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:580
+#, no-wrap
+msgid "paper and craft materials (for paper journals)"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:642
+#, no-wrap
+msgid "How would you describe Scratch to a friend?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:677
+#, no-wrap
+msgid "Write or sketch ideas for three different Scratch projects "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:687
+#, no-wrap
+msgid "you are interested in creating."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:749
+#, no-wrap
+msgid "What do the refection responses tell you about the types "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:759
+#, no-wrap
+msgid "of projects students might be interested in pursuing?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:794
+#, no-wrap
+msgid "Based on students’ responses, which units in this guide "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:804
+#, no-wrap
+msgid "might appeal to your different students? "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:1060
+#, no-wrap
+msgid "During other guide activities, facilitate group discussions "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:1070
+#, no-wrap
+msgid "around relevant refection prompts."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:1105
+#, no-wrap
+msgid "Decide whether design journals should be private or public. "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:1115
+#, no-wrap
+msgid "For example, you could maintain one-on-one feedback with "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:1125
+#, no-wrap
+msgid "students through private journals or have students leave "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:1135
+#, no-wrap
+msgid "comments for peers on shared journals. Consider the pros "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:1145
+#, no-wrap
+msgid "and cons of each option."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:1219
+#, no-wrap
+msgid "start a personalized design journal for documenting "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:1229
+#, no-wrap
+msgid "their design process and refections"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p18.svg:1306 svgs/en-p20.svg:964 svgs/en-p24.svg:1112
+#, no-wrap
+msgid "15–30 MINUTES"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:143
+#, no-wrap
+msgid "Help students open the Scratch project editor by navigating to "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:153
+#, no-wrap
+msgid "the Scratch website at http://"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:173
+#, no-wrap
+msgid ", signing in to "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:183
+#, no-wrap
+msgid "their Scratch accounts, and then clicking on “Create”"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:195
+#, no-wrap
+msgid "at the top "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:205
+#, no-wrap
+msgid "of the page. Optionally, have the Scratch Surprise"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:217
+#, no-wrap
+msgid "handout and "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:227 svgs/en-p20.svg:555
+#, no-wrap
+msgid "Scratch Cards"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:239
+#, no-wrap
+msgid "available to guide students during their "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:249
+#, no-wrap
+msgid "explorations. "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:293
+#, no-wrap
+msgid "Give students 10 minutes to explore the Scratch interface in an "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:303
+#, no-wrap
+msgid "open-ended way. Prompt students with, “You have 10 minutes "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:313
+#, no-wrap
+msgid "to make something surprising happen to the Scratch cat.” Or, "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:323
+#, no-wrap
+msgid "“Take 10 minutes to explore the interface fearlessly. What do "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:333
+#, no-wrap
+msgid "you notice?” Encourage students to work together, ask each "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:343
+#, no-wrap
+msgid "other for help, and share what they are fguring out. "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:387
+#, no-wrap
+msgid "Ask for 3 or 4 volunteers to share with the entire group one "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:397
+#, no-wrap
+msgid "thing that they discovered. Optionally, after the volunteers "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:407
+#, no-wrap
+msgid "have shared, offer several challenges to the students:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:424
+#, no-wrap
+msgid "- Did anyone fgure out how to add sound?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:441
+#, no-wrap
+msgid "- Did anyone fgure out how to change the background?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:458
+#, no-wrap
+msgid "- Did anyone fgure out how to get help with blocks?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:520
+#, no-wrap
+msgid "Scratch Surprise Handout"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:572
+#, no-wrap
+msgid "http://scratch.mit.edu/help/cards"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:634
+#, no-wrap
+msgid "What did you fgure out? "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:669
+#, no-wrap
+msgid "What do you want to know more about?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:731
+#, no-wrap
+msgid "Do students know how to initiate a new project?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:766
+#, no-wrap
+msgid "Do students understand the basic mechanism of snapping "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:776
+#, no-wrap
+msgid "Scratch blocks together?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:894
+#, no-wrap
+msgid "engage in an exploratory, hands-on experience with "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:904
+#, no-wrap
+msgid "Scratch"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:1214
+#, no-wrap
+msgid "A major goal of this activity is to establish a culture of "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:1224
+#, no-wrap
+msgid "fearlessness, exploration, and peer collaboration. It is "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:1234
+#, no-wrap
+msgid "expected that students (and their teachers!) will not know "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:1244
+#, no-wrap
+msgid "everything ahead of time – and the environment becomes a "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:1254
+#, no-wrap
+msgid "space where everyone is learning together."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:1289
+#, no-wrap
+msgid "Make sure that your computers have the latest version of "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:1299
+#, no-wrap
+msgid "Flash to run Scratch:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:1326
+#, no-wrap
+msgid "helpx.adobe.com"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:1336
+#, no-wrap
+msgid "/fash-"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:1346
+#, no-wrap
+msgid "player.html"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p20.svg:1365
+#, no-wrap
+msgid "UIT 0 ACTIVITY"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p21.svg:121
+#, no-wrap
+msgid "CAN YOU MAKE THE SCRATCH CAT DO "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p21.svg:131
+#, no-wrap
+msgid "SOMETHING SURPRISING?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p21.svg:148
+#, no-wrap
+msgid "In this activity, you will create a new project "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p21.svg:158
+#, no-wrap
+msgid "with Scratch and explore different Scratch "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p21.svg:168
+#, no-wrap
+msgid "blocks to make the cat do something "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p21.svg:178
+#, no-wrap
+msgid "surprising! What will you create? "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p21.svg:230
+#, no-wrap
+msgid "Go to the Scratch website: http://scratch.mit.edu "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p21.svg:265 svgs/en-p23.svg:248
+#, no-wrap
+msgid "Sign into your account."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p21.svg:300
+#, no-wrap
+msgid "Click on the “Create” tab located at the top left of "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p21.svg:310
+#, no-wrap
+msgid "the browser to start a new project. "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p21.svg:345
+#, no-wrap
+msgid "Time to explore! Try clicking on different parts of "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p21.svg:355
+#, no-wrap
+msgid "the Scratch interface to see what happens."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p21.svg:390
+#, no-wrap
+msgid "Play with different Scratch blocks! Drag and drop "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p21.svg:400
+#, no-wrap
+msgid "Scratch blocks into the scripting area. Experiment by "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p21.svg:410
+#, no-wrap
+msgid "clicking on each block to see what they do or try "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p21.svg:420
+#, no-wrap
+msgid "snapping blocks together."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:143
+#, no-wrap
+msgid "Scratch Studio handout"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:178
+#, no-wrap
+msgid "Scratch Surprise studio"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:215
+#, no-wrap
+msgid "/studios/460431"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:277
+#, no-wrap
+msgid "Scratch studios are one way to collect and organize Scratch "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:287
+#, no-wrap
+msgid "projects online. In this activity, help students understand what "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:297
+#, no-wrap
+msgid "studios are and how to add a project to a studio. Optionally, "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:307
+#, no-wrap
+msgid "have the Scratch Studio handout"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:354
+#, no-wrap
+msgid "First, have students navigate to the Scratch website and "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:364
+#, no-wrap
+msgid "sign in to their accounts. Next, help students fnd the "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:374
+#, no-wrap
+msgid "Scratch Surprise studio or a class studio you’ve created. "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:384
+#, no-wrap
+msgid "Then, let students share their Scratch Surprise"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:396
+#, no-wrap
+msgid "explorations "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:406
+#, no-wrap
+msgid "with others by adding their programs to the studio."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:452
+#, no-wrap
+msgid "Encourage students to investigate other projects in the "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:462
+#, no-wrap
+msgid "studio. Invite them to add a comment on the project page of "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:472
+#, no-wrap
+msgid "two projects in the collection that they fnd particularly "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:482
+#, no-wrap
+msgid "interesting or inspiring. Engage the group in a discussion "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:492
+#, no-wrap
+msgid "about how to give appropriate and purposeful feedback."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:527
+#, no-wrap
+msgid "Ask students to think back on their creative explorations by "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:537
+#, no-wrap
+msgid "responding to the refection prompts in their design "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:547
+#, no-wrap
+msgid "journals or in a group discussion. "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:609
+#, no-wrap
+msgid "Did students successfully add their projects to the studio?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:644
+#, no-wrap
+msgid "Did students comment appropriately on others’ work?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:706
+#, no-wrap
+msgid "What are Scratch studios for?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:741
+#, no-wrap
+msgid "What did you fnd interesting or inspiring about looking "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:751
+#, no-wrap
+msgid "at other projects?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:786
+#, no-wrap
+msgid "What two comments did you share?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:821
+#, no-wrap
+msgid "What is “good” feedback?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:1077
+#, no-wrap
+msgid "Create your own studio(s) to collect student work. Start a "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:1087
+#, no-wrap
+msgid "class Scratch Surprise studio using your Scratch account and "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:1097
+#, no-wrap
+msgid "then give students the studio link to “turn in” projects. "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:1107
+#, no-wrap
+msgid "Create one dedicated studio to gather all class projects or "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:1117
+#, no-wrap
+msgid "distribute activities across separate studios to track student "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:1127
+#, no-wrap
+msgid "progress."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:1201
+#, no-wrap
+msgid "be able to add a project to a studio"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p22.svg:1236
+#, no-wrap
+msgid "be able to post comments on other Scratch projects"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p23.svg:187
+#, no-wrap
+msgid "Go to the Scratch Surprise studio using this link:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p23.svg:204
+#, no-wrap
+msgid "http://scratch.mit.edu/studios/460431"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p23.svg:283
+#, no-wrap
+msgid "Click on “Add Projects” at the bottom of the page to "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p23.svg:293
+#, no-wrap
+msgid "show your your projects, favorite projects, and "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p23.svg:303
+#, no-wrap
+msgid "recently viewed projects."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p23.svg:347
+#, no-wrap
+msgid "Use the arrows to fnd your Scratch Surprise project "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p23.svg:357
+#, no-wrap
+msgid "and then click “Add + ” to add your project to the "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p23.svg:367
+#, no-wrap
+msgid "studio."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p23.svg:397
+#, no-wrap
+msgid "LEARN HOW TO ADD YOUR PROJECT TO "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p23.svg:407
+#, no-wrap
+msgid "AN ONLINE SCRATCH STUDIO!"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p23.svg:424
+#, no-wrap
+msgid "Studios are collections of Scratch projects. "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p23.svg:434
+#, no-wrap
+msgid "Follow along with the steps below to add "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p23.svg:444
+#, no-wrap
+msgid "your Scratch Surprise program to the Scratch "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p23.svg:454
+#, no-wrap
+msgid "Surprise studio on the Scratch website."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p24.svg:177
+#, no-wrap
+msgid "divide into small critique groups in order to give and "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p24.svg:187
+#, no-wrap
+msgid "get feedback on design ideas and works-in-progress"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p24.svg:227
+#, no-wrap
+msgid "Critique Group handout"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p24.svg:289
+#, no-wrap
+msgid "Introduce students to the idea of a critique group, a small "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p24.svg:299
+#, no-wrap
+msgid "group of designers who share ideas and projects-in-progress "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p24.svg:309
+#, no-wrap
+msgid "with one another in order to get feedback and suggestions for "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p24.svg:319
+#, no-wrap
+msgid "further development."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p24.svg:354
+#, no-wrap
+msgid "Optionally, have the Critique Group handout available to guide "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p24.svg:364
+#, no-wrap
+msgid "students in giving feedback."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p24.svg:399
+#, no-wrap
+msgid "Divide students in smaller groups of 3-4 people. In these "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p24.svg:409
+#, no-wrap
+msgid "critique groups, ask students to take turns sharing their "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p24.svg:419
+#, no-wrap
+msgid "ideas, drafts, or prototypes, for example, Scratch Surprise "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p24.svg:429
+#, no-wrap
+msgid "projects"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p24.svg:473
+#, no-wrap
+msgid "Let students gather feedback by having their critique group "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p24.svg:483
+#, no-wrap
+msgid "members respond to the Red, Yellow, Green refection "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p24.svg:493
+#, no-wrap
+msgid "prompts or using the Critique Group handout. Encourage "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p24.svg:503
+#, no-wrap
+msgid "students to record other notes, feedback, and suggestions in "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p24.svg:577
+#, no-wrap
+msgid "RED: What is something that doesn’t work or could be "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p24.svg:587
+#, no-wrap
+msgid "improved?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p24.svg:622
+#, no-wrap
+msgid "YELLOW: What is something that is confusing or could be "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p24.svg:632
+#, no-wrap
+msgid "done differently? "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p24.svg:667
+#, no-wrap
+msgid "GREEN: What is something that works well or you really "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p24.svg:677
+#, no-wrap
+msgid "like about the project?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p24.svg:739
+#, no-wrap
+msgid "Did all students have a chance to share their work and "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p24.svg:749
+#, no-wrap
+msgid "get feedback?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p24.svg:788 svgs/en-p25.svg:427
+#, no-wrap
+msgid "CRITIQUE GROUP"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p24.svg:1022
+#, no-wrap
+msgid "It can be valuable to have a dedicated group of peers to "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p24.svg:1032
+#, no-wrap
+msgid "give you encouragement and feedback on your design "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p24.svg:1042
+#, no-wrap
+msgid "iterations. Provide opportunities for students to continue "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p24.svg:1052
+#, no-wrap
+msgid "meeting with their critique groups during Units 1-6."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p25.svg:75
+#, no-wrap
+msgid "PROJECT FEEDBACK"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p25.svg:92
+#, no-wrap
+msgid "PARTS OF THE PROJECT THAT MIGHT BE HELPFUL TO THINK ABOUT: "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p25.svg:136
+#, no-wrap
+msgid "Clarity: Did you understand what the project is supposed to do? "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p25.svg:171
+#, no-wrap
+msgid ""
+"Features: What features does the project have? Does the project work as "
+"expected? "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p25.svg:206
+#, no-wrap
+msgid ""
+"Appeal: How engaging is the project? Is it interactive, original, "
+"sophisticated, funny, or interesting? How did you feel as you interacted "
+"with it?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p25.svg:228
+#, no-wrap
+msgid ""
+"FEEDBACK FOR: "
+"______________________________________________________________________"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p25.svg:254
+#, no-wrap
+msgid ""
+"PROJECT TITLE: "
+"______________________________________________________________________"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p25.svg:320
+#, no-wrap
+msgid "FEEDBACK BY"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p25.svg:337
+#, no-wrap
+msgid "[YELLOW] What is something that is "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p25.svg:347
+#, no-wrap
+msgid "confusing or could be done differently?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p25.svg:364
+#, no-wrap
+msgid "[RED] What is something that doesn’t work "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p25.svg:374
+#, no-wrap
+msgid "or could be improved?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p25.svg:391
+#, no-wrap
+msgid "[GREEN] What is something that works "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p25.svg:401
+#, no-wrap
+msgid "well or you really like about the project?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p26.svg:75
+#, no-wrap
+msgid "22"
+msgstr ""

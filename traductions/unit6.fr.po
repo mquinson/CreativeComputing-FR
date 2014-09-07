@@ -1,0 +1,3089 @@
+# French translations for PACKAGE package
+# Copyright (C) 2014 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2014-09-07 23:59+0200\n"
+"PO-Revision-Date: 2014-09-07 23:59+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. type: Content of: <svg><metadata><rdf:RDF><cc:Work><dc:format>
+#: svgs/en-p113.svg:21 svgs/en-p114.svg:21 svgs/en-p115.svg:21
+#: svgs/en-p116.svg:20 svgs/en-p117.svg:21 svgs/en-p118.svg:21
+#: svgs/en-p119.svg:20 svgs/en-p120.svg:21 svgs/en-p121.svg:21
+#: svgs/en-p122.svg:20 svgs/en-p123.svg:21 svgs/en-p124.svg:21
+#: svgs/en-p125.svg:21 svgs/en-p126.svg:21 svgs/en-p127.svg:20
+#: svgs/en-p128.svg:21 svgs/en-p129.svg:20 svgs/en-p130.svg:21
+#: svgs/en-p131.svg:20 svgs/en-p132.svg:21 svgs/en-p133.svg:20
+#: svgs/en-p134.svg:21 svgs/en-p135.svg:21 svgs/en-p136.svg:20
+msgid "image/svg+xml"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p113.svg:114
+msgid "109"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p113.svg:173
+msgid "1"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p113.svg:195
+msgid "2"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p113.svg:214
+msgid "3"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p113.svg:233
+msgid "4"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p113.svg:252
+msgid "5"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p113.svg:271
+msgid "0"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p113.svg:287
+msgid "6"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p113.svg:306 svgs/en-p114.svg:98
+msgid "UNIT 6"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p113.svg:323
+msgid "HACKATHON"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p113.svg:340
+msgid "PROJECT PITCH"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p113.svg:354 svgs/en-p118.svg:1438
+msgid "114"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p113.svg:371
+msgid "PROJECT PLANNING"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p113.svg:387 svgs/en-p120.svg:1455
+msgid "116"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p113.svg:404
+msgid "DESIGN SPRINT"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p113.svg:418 svgs/en-p124.svg:1323
+msgid "120"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p113.svg:435
+msgid "PROJECT FEEDBACK"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p113.svg:451 svgs/en-p126.svg:1280
+msgid "122"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p113.svg:468
+msgid "PROJECT CHECK-IN"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p113.svg:486 svgs/en-p128.svg:1308
+msgid "124"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p113.svg:503
+msgid "UNFOCUS GROUP"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p113.svg:521 svgs/en-p130.svg:1461
+msgid "126"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p113.svg:538
+msgid "SHOWCASE PREP"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p113.svg:552 svgs/en-p132.svg:1239
+msgid "128"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p113.svg:569 svgs/en-p116.svg:420 svgs/en-p116.svg:892
+#: svgs/en-p132.svg:413 svgs/en-p134.svg:421
+msgid "SHOWCASE"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p113.svg:583 svgs/en-p134.svg:1250
+msgid "130"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p113.svg:614
+msgid "WHAT’S INCLUDED"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p113.svg:631
+msgid "YOU ARE HERE"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:115
+msgid "OVERVIEW"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:132
+msgid "In this fnal unit, students will build on their creative computing"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:142
+msgid "experiences by engaging in the design of an open-ended project"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:152
+msgid "of their choosing. To help you and your students tackle this"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:162
+msgid "open-ended design experience, we were inspired to frame this"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:172
+msgid "unit as a"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:182 svgs/en-p114.svg:232 svgs/en-p114.svg:331
+#: svgs/en-p114.svg:588 svgs/en-p115.svg:178 svgs/en-p115.svg:533
+#: svgs/en-p116.svg:128 svgs/en-p116.svg:484 svgs/en-p118.svg:1330
+#: svgs/en-p119.svg:177 svgs/en-p120.svg:1002
+msgid "hackathon"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:192
+msgid ". With its ethos of embracing just-in-time"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:202
+msgid "learning and problem solving, encouraging iterative planning-"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:212
+msgid "making-sharing, and celebrating a connected and collaborative"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:222
+msgid "environment, the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:242
+msgid "is an ideal creative computing"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:252
+msgid "culminating experience."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:269
+msgid "LEARNING OBJECTIVES"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:286
+msgid "Students will:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:302 svgs/en-p114.svg:357 svgs/en-p114.svg:442
+#: svgs/en-p114.svg:502 svgs/en-p114.svg:569 svgs/en-p114.svg:606
+#: svgs/en-p114.svg:641 svgs/en-p114.svg:676 svgs/en-p114.svg:721
+#: svgs/en-p118.svg:544 svgs/en-p118.svg:579 svgs/en-p118.svg:718
+#: svgs/en-p118.svg:753 svgs/en-p118.svg:798 svgs/en-p118.svg:870
+#: svgs/en-p118.svg:915 svgs/en-p118.svg:1281 svgs/en-p120.svg:549
+#: svgs/en-p120.svg:584 svgs/en-p120.svg:629 svgs/en-p120.svg:776
+#: svgs/en-p120.svg:811 svgs/en-p120.svg:846 svgs/en-p120.svg:891
+#: svgs/en-p120.svg:963 svgs/en-p120.svg:1027 svgs/en-p120.svg:1369
+#: svgs/en-p124.svg:621 svgs/en-p124.svg:743 svgs/en-p124.svg:778
+#: svgs/en-p124.svg:850 svgs/en-p124.svg:885 svgs/en-p124.svg:1227
+#: svgs/en-p126.svg:548 svgs/en-p126.svg:593 svgs/en-p126.svg:628
+#: svgs/en-p126.svg:730 svgs/en-p126.svg:775 svgs/en-p126.svg:847
+#: svgs/en-p126.svg:892 svgs/en-p126.svg:1224 svgs/en-p127.svg:276
+#: svgs/en-p127.svg:311 svgs/en-p127.svg:346 svgs/en-p128.svg:496
+#: svgs/en-p128.svg:531 svgs/en-p128.svg:576 svgs/en-p128.svg:688
+#: svgs/en-p128.svg:723 svgs/en-p128.svg:758 svgs/en-p128.svg:793
+#: svgs/en-p128.svg:865 svgs/en-p128.svg:900 svgs/en-p128.svg:1252
+#: svgs/en-p130.svg:665 svgs/en-p130.svg:787 svgs/en-p130.svg:852
+#: svgs/en-p130.svg:914 svgs/en-p130.svg:1310 svgs/en-p130.svg:1375
+#: svgs/en-p131.svg:203 svgs/en-p131.svg:278 svgs/en-p131.svg:426
+#: svgs/en-p131.svg:471 svgs/en-p131.svg:526 svgs/en-p131.svg:622
+#: svgs/en-p131.svg:677 svgs/en-p132.svg:485 svgs/en-p132.svg:679
+#: svgs/en-p132.svg:714 svgs/en-p132.svg:749 svgs/en-p132.svg:811
+#: svgs/en-p132.svg:1153 svgs/en-p134.svg:476 svgs/en-p134.svg:598
+#: svgs/en-p134.svg:643 svgs/en-p134.svg:678 svgs/en-p134.svg:723
+#: svgs/en-p134.svg:785 svgs/en-p134.svg:1127 svgs/en-p134.svg:1184
+msgid "+"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:311 svgs/en-p114.svg:366 svgs/en-p114.svg:451
+#: svgs/en-p114.svg:511 svgs/en-p114.svg:578 svgs/en-p114.svg:615
+#: svgs/en-p114.svg:650 svgs/en-p114.svg:685 svgs/en-p114.svg:730
+#: svgs/en-p118.svg:133 svgs/en-p118.svg:207 svgs/en-p118.svg:341
+#: svgs/en-p118.svg:415 svgs/en-p118.svg:553 svgs/en-p118.svg:588
+#: svgs/en-p118.svg:630 svgs/en-p118.svg:665 svgs/en-p118.svg:727
+#: svgs/en-p118.svg:762 svgs/en-p118.svg:807 svgs/en-p118.svg:879
+#: svgs/en-p118.svg:924 svgs/en-p118.svg:1135 svgs/en-p118.svg:1171
+#: svgs/en-p118.svg:1207 svgs/en-p118.svg:1243 svgs/en-p118.svg:1290
+#: svgs/en-p120.svg:133 svgs/en-p120.svg:216 svgs/en-p120.svg:292
+#: svgs/en-p120.svg:388 svgs/en-p120.svg:558 svgs/en-p120.svg:593
+#: svgs/en-p120.svg:638 svgs/en-p120.svg:688 svgs/en-p120.svg:723
+#: svgs/en-p120.svg:785 svgs/en-p120.svg:820 svgs/en-p120.svg:855
+#: svgs/en-p120.svg:900 svgs/en-p120.svg:972 svgs/en-p120.svg:1036
+#: svgs/en-p120.svg:1223 svgs/en-p120.svg:1259 svgs/en-p120.svg:1295
+#: svgs/en-p120.svg:1331 svgs/en-p120.svg:1378 svgs/en-p124.svg:133
+#: svgs/en-p124.svg:197 svgs/en-p124.svg:331 svgs/en-p124.svg:488
+#: svgs/en-p124.svg:630 svgs/en-p124.svg:680 svgs/en-p124.svg:752
+#: svgs/en-p124.svg:787 svgs/en-p124.svg:859 svgs/en-p124.svg:894
+#: svgs/en-p124.svg:1081 svgs/en-p124.svg:1117 svgs/en-p124.svg:1153
+#: svgs/en-p124.svg:1189 svgs/en-p124.svg:1236 svgs/en-p126.svg:133
+#: svgs/en-p126.svg:198 svgs/en-p126.svg:273 svgs/en-p126.svg:357
+#: svgs/en-p126.svg:557 svgs/en-p126.svg:602 svgs/en-p126.svg:637
+#: svgs/en-p126.svg:677 svgs/en-p126.svg:739 svgs/en-p126.svg:784
+#: svgs/en-p126.svg:856 svgs/en-p126.svg:901 svgs/en-p126.svg:1078
+#: svgs/en-p126.svg:1114 svgs/en-p126.svg:1150 svgs/en-p126.svg:1186
+#: svgs/en-p126.svg:1233 svgs/en-p127.svg:285 svgs/en-p127.svg:320
+#: svgs/en-p127.svg:355 svgs/en-p128.svg:133 svgs/en-p128.svg:239
+#: svgs/en-p128.svg:355 svgs/en-p128.svg:505 svgs/en-p128.svg:540
+#: svgs/en-p128.svg:585 svgs/en-p128.svg:635 svgs/en-p128.svg:697
+#: svgs/en-p128.svg:732 svgs/en-p128.svg:767 svgs/en-p128.svg:802
+#: svgs/en-p128.svg:874 svgs/en-p128.svg:909 svgs/en-p128.svg:1106
+#: svgs/en-p128.svg:1142 svgs/en-p128.svg:1178 svgs/en-p128.svg:1214
+#: svgs/en-p128.svg:1261 svgs/en-p130.svg:133 svgs/en-p130.svg:238
+#: svgs/en-p130.svg:305 svgs/en-p130.svg:402 svgs/en-p130.svg:478
+#: svgs/en-p130.svg:674 svgs/en-p130.svg:724 svgs/en-p130.svg:796
+#: svgs/en-p130.svg:861 svgs/en-p130.svg:923 svgs/en-p130.svg:1164
+#: svgs/en-p130.svg:1200 svgs/en-p130.svg:1236 svgs/en-p130.svg:1272
+#: svgs/en-p130.svg:1319 svgs/en-p130.svg:1384 svgs/en-p131.svg:212
+#: svgs/en-p131.svg:287 svgs/en-p131.svg:435 svgs/en-p131.svg:480
+#: svgs/en-p131.svg:535 svgs/en-p131.svg:631 svgs/en-p131.svg:686
+#: svgs/en-p132.svg:133 svgs/en-p132.svg:249 svgs/en-p132.svg:344
+#: svgs/en-p132.svg:494 svgs/en-p132.svg:544 svgs/en-p132.svg:579
+#: svgs/en-p132.svg:688 svgs/en-p132.svg:723 svgs/en-p132.svg:758
+#: svgs/en-p132.svg:820 svgs/en-p132.svg:1007 svgs/en-p132.svg:1043
+#: svgs/en-p132.svg:1079 svgs/en-p132.svg:1115 svgs/en-p132.svg:1162
+#: svgs/en-p134.svg:133 svgs/en-p134.svg:199 svgs/en-p134.svg:255
+#: svgs/en-p134.svg:342 svgs/en-p134.svg:485 svgs/en-p134.svg:545
+#: svgs/en-p134.svg:607 svgs/en-p134.svg:652 svgs/en-p134.svg:687
+#: svgs/en-p134.svg:732 svgs/en-p134.svg:794 svgs/en-p134.svg:981
+#: svgs/en-p134.svg:1017 svgs/en-p134.svg:1053 svgs/en-p134.svg:1089
+#: svgs/en-p134.svg:1136 svgs/en-p134.svg:1193
+msgid " "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:321
+msgid "be introduced to the format of a"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:341
+msgid "event"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:376
+msgid "demonstrate knowledge of computational concepts (sequence,"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:386
+msgid "loops, events, parallelism, conditionals, operators, data) and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:396
+msgid "practices (experimenting and iterating, testing and debugging,"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:406
+msgid "reusing and remixing, abstracting and modularizing) by"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:416
+msgid "defning, developing, and presenting a personally meaningful,"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:426
+msgid "self-directed project"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:461
+msgid "have multiple opportunities for collaboration by working in peer"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:471
+msgid "teams, sharing skills, and giving and receiving multiple rounds"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:481
+msgid "of feedback"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:521
+msgid "This unit can accommodate either independent or collaborative"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:531
+msgid "group projects. Pick one option or allow students to choose."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:548 svgs/en-p118.svg:1083 svgs/en-p120.svg:1171
+#: svgs/en-p124.svg:1029 svgs/en-p126.svg:1026 svgs/en-p128.svg:1054
+#: svgs/en-p130.svg:1112 svgs/en-p132.svg:955 svgs/en-p134.svg:929
+msgid "NOTES"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:625
+msgid "design sprint"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:660
+msgid "project pitch"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:695 svgs/en-p130.svg:153 svgs/en-p130.svg:183
+#: svgs/en-p130.svg:325 svgs/en-p130.svg:432 svgs/en-p130.svg:508
+#: svgs/en-p130.svg:816 svgs/en-p130.svg:943 svgs/en-p130.svg:1404
+#: svgs/en-p131.svg:307 svgs/en-p131.svg:381
+msgid "unfocus"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:705 svgs/en-p130.svg:518 svgs/en-p130.svg:953
+msgid "group"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:740
+msgid "showcase"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:757
+msgid "KEY WORDS, CONCEPTS, &amp; PRACTICES"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:782 svgs/en-p115.svg:158
+msgid "THE “BIG IDEA”"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:799
+msgid "110"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:845
+msgid "School is done but"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:862
+msgid "some students do not"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:879
+msgid "seem to notice."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:896
+msgid "Busy debugging"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:913
+msgid "their #scratch game."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:930
+msgid "A team effort."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p114.svg:947
+msgid "@Sheena1010"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p115.svg:168
+msgid "Throughout the duration of the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p115.svg:188
+msgid ", students will engage in"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p115.svg:198
+msgid "iterative cycles in which they PLAN,"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p115.svg:208
+msgid "MAKE, and SHARE. This iterative"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p115.svg:218
+msgid "cycle encourages students to"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p115.svg:228
+msgid "engage in meaningful acts of"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p115.svg:238
+msgid "ideation, creation, and refection."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p115.svg:270 svgs/en-p115.svg:759
+msgid "MAKE"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p115.svg:289
+msgid "Design and develop project creations with"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p115.svg:306
+msgid "resources and help from others."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p115.svg:364 svgs/en-p115.svg:712
+msgid "PLAN"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p115.svg:383
+msgid "What do you want to work on? Brainstorm"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p115.svg:393
+msgid "ideas and prepare a plan of action!"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p115.svg:415 svgs/en-p115.svg:729 svgs/en-p116.svg:105
+msgid "SHARE"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p115.svg:434
+msgid "Share your project with others and gather"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p115.svg:444
+msgid "feedback to guide your next steps!"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p115.svg:477
+msgid ""
+"“Hack” has a negative connotation to some – but it has a long history of "
+"standing for playfulness, curiosity, persistence, and creativity."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p115.svg:487
+msgid ""
+"One of our favorite defnitions frames “hack” as “an appropriate application "
+"of ingenuity”. With this defnition, what better capacity for"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p115.svg:497
+msgid "young learners than learning how to “hack”?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p115.svg:523
+msgid "A"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p115.svg:543
+msgid ""
+"takes the playful ingenuity of hacking – and situates it in an intensely "
+"focused and time-limited context. In this unit, learners"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p115.svg:553
+msgid ""
+"will brainstorm an idea, develop a project, and showcase a fnal prototype "
+"using an iterative plan-make-share cycle."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p115.svg:579
+msgid "Hackathons"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p115.svg:589
+msgid ""
+"provide excellent opportunities for learners to invent their own personally "
+"meaningful and relevant projects to work on, which"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p115.svg:599
+msgid ""
+"can be developed as independent fnal projects or in collaborative teams. It "
+"is a chance for students to demonstrate their knowledge in"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p115.svg:609
+msgid ""
+"Scratch, expand upon current skills, and develop and test ideas within a "
+"collaborative, creative, fexible, and playful learning environment."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p115.svg:626
+msgid "111"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p115.svg:830
+msgid "HOW DOES IT WORK?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p115.svg:850
+msgid "WHAT IS A HACKATHON?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:78
+msgid "POSSIBLE PATH"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:95
+msgid "SKILL"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:118
+msgid "The"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:138
+msgid ""
+"-inspired activities for this unit are designed to challenge students to "
+"build up a more complex project within an open-ended"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:148
+msgid ""
+"and collaborative learning environment. All of the important culture-"
+"building we’ve been doing – encouraging risk-taking and persistence,"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:158
+msgid ""
+"recognizing failures as learning opportunities, focusing on process over "
+"product, and cultivating a culture of cooperation and fun –"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:168
+msgid "culminates in this unit."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:194
+msgid ""
+"To help you get started, we have included a suggested sequence of activities "
+"that follow the plan-make-share design cycle."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:222
+msgid "START"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:232
+msgid "HERE"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:253 svgs/en-p116.svg:335 svgs/en-p116.svg:589
+#: svgs/en-p116.svg:1233 svgs/en-p118.svg:973 svgs/en-p119.svg:204
+#: svgs/en-p120.svg:477 svgs/en-p122.svg:212 svgs/en-p123.svg:284
+#: svgs/en-p126.svg:476 svgs/en-p127.svg:430 svgs/en-p128.svg:424
+#: svgs/en-p129.svg:270 svgs/en-p133.svg:98
+msgid "PROJECT"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:270 svgs/en-p118.svg:990 svgs/en-p119.svg:221
+msgid "PITCH"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:287
+msgid "Pitch your ideas,"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:297
+msgid "interests, or skills to"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:307
+msgid "form a project team!"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:345 svgs/en-p126.svg:493 svgs/en-p127.svg:447
+msgid "FEEDBACK"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:367
+msgid "What is going well in"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:377
+msgid "your project and what"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:387
+msgid "still needs"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:397
+msgid "adjustment?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:437 svgs/en-p132.svg:430
+msgid "PREP"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:454
+msgid "Use this time to make"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:464
+msgid "last-minute project edits"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:474
+msgid "and to prepare for the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:494
+msgid "showcase."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:517 svgs/en-p116.svg:681 svgs/en-p116.svg:1007
+#: svgs/en-p124.svg:549
+msgid "DESIGN"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:534 svgs/en-p116.svg:698 svgs/en-p116.svg:1024
+#: svgs/en-p124.svg:566
+msgid "SPRINT"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:551
+msgid "Final round of"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:561
+msgid "design!"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:606 svgs/en-p116.svg:1250 svgs/en-p128.svg:441
+#: svgs/en-p129.svg:287
+msgid "CHECK-IN"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:623
+msgid "Take a moment to refect"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:633
+msgid "on your project feedback"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:643
+msgid "and regroup before"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:653
+msgid "continuing."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:715
+msgid "Keep making"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:725
+msgid "progress with your"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:735
+msgid "project as you move"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:745
+msgid "into the second"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:755
+msgid "round of design."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:778 svgs/en-p130.svg:1002 svgs/en-p131.svg:748
+msgid "UNFOCUS"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:795 svgs/en-p130.svg:1019 svgs/en-p131.svg:765
+msgid "GROUP"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:817
+msgid "Formulate and share"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:827
+msgid "project feedback with"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:837
+msgid "your critique group."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:914
+msgid "An event to celebrate"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:924
+msgid "all of your hard work"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:934
+msgid "and fnished projects!"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:967
+msgid "Dive into your project"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:977
+msgid "creation with this open-"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:987
+msgid "ended design sprint."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:1110 svgs/en-p120.svg:494 svgs/en-p122.svg:229
+msgid "PLANNING"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:1120
+msgid "PROMPTS"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:1137
+msgid "Before diving into your"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:1147
+msgid "project, take some time"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:1157
+msgid "to prepare a plan of"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:1167
+msgid "action."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:1267
+msgid "Take a moment to"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:1277
+msgid "refect on your project"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:1287
+msgid "feedback and regroup"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:1297
+msgid "before continuing."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p116.svg:1390
+msgid "112"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:124 svgs/en-p118.svg:198 svgs/en-p118.svg:332
+#: svgs/en-p118.svg:406 svgs/en-p118.svg:621 svgs/en-p118.svg:656
+#: svgs/en-p118.svg:1126 svgs/en-p118.svg:1162 svgs/en-p118.svg:1198
+#: svgs/en-p118.svg:1234 svgs/en-p120.svg:124 svgs/en-p120.svg:207
+#: svgs/en-p120.svg:283 svgs/en-p120.svg:379 svgs/en-p120.svg:679
+#: svgs/en-p120.svg:714 svgs/en-p120.svg:1214 svgs/en-p120.svg:1250
+#: svgs/en-p120.svg:1286 svgs/en-p120.svg:1322 svgs/en-p124.svg:124
+#: svgs/en-p124.svg:188 svgs/en-p124.svg:322 svgs/en-p124.svg:479
+#: svgs/en-p124.svg:671 svgs/en-p124.svg:1072 svgs/en-p124.svg:1108
+#: svgs/en-p124.svg:1144 svgs/en-p124.svg:1180 svgs/en-p126.svg:124
+#: svgs/en-p126.svg:189 svgs/en-p126.svg:264 svgs/en-p126.svg:348
+#: svgs/en-p126.svg:668 svgs/en-p126.svg:1069 svgs/en-p126.svg:1105
+#: svgs/en-p126.svg:1141 svgs/en-p126.svg:1177 svgs/en-p128.svg:124
+#: svgs/en-p128.svg:230 svgs/en-p128.svg:346 svgs/en-p128.svg:626
+#: svgs/en-p128.svg:1097 svgs/en-p128.svg:1133 svgs/en-p128.svg:1169
+#: svgs/en-p128.svg:1205 svgs/en-p130.svg:124 svgs/en-p130.svg:229
+#: svgs/en-p130.svg:296 svgs/en-p130.svg:393 svgs/en-p130.svg:469
+#: svgs/en-p130.svg:715 svgs/en-p130.svg:1155 svgs/en-p130.svg:1191
+#: svgs/en-p130.svg:1227 svgs/en-p130.svg:1263 svgs/en-p132.svg:124
+#: svgs/en-p132.svg:240 svgs/en-p132.svg:335 svgs/en-p132.svg:535
+#: svgs/en-p132.svg:570 svgs/en-p132.svg:998 svgs/en-p132.svg:1034
+#: svgs/en-p132.svg:1070 svgs/en-p132.svg:1106 svgs/en-p134.svg:124
+#: svgs/en-p134.svg:190 svgs/en-p134.svg:246 svgs/en-p134.svg:333
+#: svgs/en-p134.svg:536 svgs/en-p134.svg:972 svgs/en-p134.svg:1008
+#: svgs/en-p134.svg:1044 svgs/en-p134.svg:1080
+msgid "!"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:143
+msgid "Introduce students to the concept of a pitch. With a pitch,"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:153
+msgid "students can either announce a project idea in order to recruit"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:163
+msgid "other team members, or they can promote their interests,"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:173
+msgid "skills, or talents, in order to be recruited by other teams."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:217
+msgid "Distribute the Pitch handout, giving students time to"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:227
+msgid "brainstorm and to respond on the handout."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:237
+msgid "Some students"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:247
+msgid "already may have a project idea or have identifed a specifc"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:257
+msgid "interest or skill they want to share or further explore."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:267
+msgid "Let"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:277
+msgid "students know that if they don’t have a specifc project idea"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:287
+msgid "or interest, they will have an opportunity to join another"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:297
+msgid "team. Optionally, have students review inspiration projects"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:307
+msgid "identifed during the Unit 1 My Studio activity."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:351
+msgid "Give each student a chance to pitch to the rest of the group."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:361
+msgid "Ask people to line up if they want to pitch, and give them thirty"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:371
+msgid "seconds each to describe their project, interest, or skill"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:381 svgs/en-p120.svg:182 svgs/en-p124.svg:237
+#: svgs/en-p128.svg:259 svgs/en-p128.svg:319 svgs/en-p134.svg:219
+msgid "."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:425
+msgid "Provide time for students to form project groups of 3 or 4"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:435
+msgid "people."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:445
+msgid "Optionally, have students write their names and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:455
+msgid "project interests on sticky notes that can be arranged and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:465
+msgid "sorted on a wall to facilitate team-building."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:484 svgs/en-p120.svg:455 svgs/en-p124.svg:527
+#: svgs/en-p126.svg:454 svgs/en-p128.svg:402 svgs/en-p130.svg:605
+#: svgs/en-p132.svg:391 svgs/en-p134.svg:399
+msgid "ACTIVITY DESCRIPTION"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:511 svgs/en-p120.svg:516 svgs/en-p124.svg:588
+#: svgs/en-p126.svg:515 svgs/en-p128.svg:463 svgs/en-p130.svg:632
+#: svgs/en-p132.svg:452 svgs/en-p134.svg:443
+msgid "OBJECTIVES"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:528 svgs/en-p120.svg:533 svgs/en-p124.svg:605
+#: svgs/en-p126.svg:532 svgs/en-p128.svg:480 svgs/en-p130.svg:649
+#: svgs/en-p132.svg:469 svgs/en-p134.svg:460
+msgid "By completing this activity, students will:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:563
+msgid "brainstorm project ideas based on personal interests"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:598
+msgid "pitch ideas, interests, and skills to form project teams"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:640
+msgid "Pitch handout"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:675
+msgid "sticky notes (optional)"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:692 svgs/en-p120.svg:750 svgs/en-p124.svg:717
+#: svgs/en-p126.svg:704 svgs/en-p128.svg:662 svgs/en-p130.svg:761
+#: svgs/en-p132.svg:653 svgs/en-p134.svg:572
+msgid "RESOURCES"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:737
+msgid "What has been your favorite project to work on so far?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:772
+msgid "What kinds of projects are you interested in creating"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:782
+msgid "next?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:817
+msgid "What knowledge, skills, or talents could you contribute to"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:827
+msgid "a project?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:844 svgs/en-p120.svg:937 svgs/en-p124.svg:824
+#: svgs/en-p126.svg:821 svgs/en-p128.svg:839 svgs/en-p130.svg:888
+#: svgs/en-p132.svg:785 svgs/en-p134.svg:759
+msgid "REFLECTION PROMPTS"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:889
+msgid "Did each student get a chance to pitch their idea or"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:899
+msgid "interests?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:934
+msgid "Did each student fnd a project team to join?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:951 svgs/en-p120.svg:1073 svgs/en-p124.svg:931
+#: svgs/en-p126.svg:928 svgs/en-p128.svg:956 svgs/en-p130.svg:980
+#: svgs/en-p132.svg:857 svgs/en-p134.svg:831
+msgid "REVIEWING STUDENT WORK"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:1007 svgs/en-p120.svg:1095 svgs/en-p124.svg:953
+#: svgs/en-p126.svg:950 svgs/en-p128.svg:1004 svgs/en-p130.svg:1036
+#: svgs/en-p132.svg:879 svgs/en-p134.svg:853
+msgid "SUGGESTED TIME"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:1024 svgs/en-p120.svg:1112 svgs/en-p126.svg:967
+#: svgs/en-p130.svg:1053 svgs/en-p132.svg:896
+msgid "30–45 MINUTES"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:1105 svgs/en-p120.svg:1193 svgs/en-p124.svg:1051
+#: svgs/en-p126.svg:1048 svgs/en-p128.svg:1076 svgs/en-p130.svg:1134
+#: svgs/en-p132.svg:977 svgs/en-p134.svg:951
+msgid "NOTES TO SELF"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:1300
+msgid "Students can be enormously valuable in providing support"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:1310
+msgid "and guidance to each other throughout all of the Scratch"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:1320
+msgid "sessions, and particularly during the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:1340 svgs/en-p120.svg:438 svgs/en-p130.svg:588
+msgid "sessions."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:1350
+msgid "Encouraging young people to share their knowledge and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:1360
+msgid "skills with others makes things easier for the facilitator, but"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:1370
+msgid "can also signifcantly deepen creators’ learning and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:1380
+msgid "understanding."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p118.svg:1413 svgs/en-p120.svg:1488 svgs/en-p124.svg:1356
+#: svgs/en-p126.svg:1313 svgs/en-p128.svg:1341 svgs/en-p130.svg:1494
+#: svgs/en-p132.svg:1272 svgs/en-p134.svg:1283
+msgid "UNIT 6 ACTIVITY"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p119.svg:80
+msgid "PROJECT PITCH BY: __________________________________________________"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p119.svg:97
+msgid ""
+"What has been your favorite project to work on so far? What made this "
+"project stand out for you?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p119.svg:114
+msgid "What kinds of projects are you interested in creating next?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p119.svg:131 svgs/en-p131.svg:170
+msgid "SKILLS IN SCRATCH"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p119.svg:148
+msgid ""
+"What knowledge, skills, or talents would you like to contribute to a project?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p119.svg:167
+msgid ""
+"Use the prompts below to brainstorm ideas for projects you’re interested in "
+"working on during the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p119.svg:187
+msgid ""
+". You will have 30 seconds to pitch your ideas, interests, and skills to the "
+"rest of the group!"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p119.svg:241
+msgid "MY FAVORITE PROJECT"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p119.svg:261
+msgid "MY HACKATHON PROJECT IDEA"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p119.svg:281
+msgid "MY SKILLS AND INTERESTS"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:143
+msgid "Taking some time at the start of the fnal project to explore"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:153
+msgid "ideas, identify tasks involved in completing the project, and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:163
+msgid "list what is (and isn’t) already known can be very benefcial"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:173
+msgid "for successful project completion"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:226 svgs/en-p128.svg:249
+msgid "Divide the group into project teams"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:236
+msgid ". Optionally, distribute the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:246
+msgid "Project Planning and Project Sketches handouts to each"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:256
+msgid "team or individual."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:302
+msgid "Review different elements for planning projects (project"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:312
+msgid "sketches, outline of tasks, list of resources, storyboards/"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:322
+msgid "wireframes). Give the teams 15 minutes to brainstorm"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:332
+msgid "ideas, plans, and resources for their projects. Students who"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:342
+msgid "already have a clear concept and plan are welcome to start"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:352
+msgid "working on their project design."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:398
+msgid "Optionally, collect"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:408
+msgid "the completed Project Planning and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:418
+msgid "Project Sketches handouts at the end of this activity to"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:428
+msgid "return to students at the beginning of Design Sprint"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:568
+msgid "identify an appropriately-scoped project to work on"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:603 svgs/en-p128.svg:550
+msgid "develop an outline of activities or tasks required to"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:613 svgs/en-p120.svg:658 svgs/en-p128.svg:560
+msgid "complete the project"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:648
+msgid "generate a preliminary list of resources required to"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:698
+msgid "Project Planning handout"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:733
+msgid "Project Sketches handout"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:795
+msgid "What project do I want to create?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:830
+msgid "What steps will I take to develop my project?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:865
+msgid "What resources (e.g., people, sample projects) do I"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:875
+msgid "already have to develop my project?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:910
+msgid "What resources (e.g., people, sample projects) might I"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:920
+msgid "need to develop my project?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:982
+msgid "Is the project appropriately scoped for the amount of"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:992
+msgid "time and resources available for this"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:1011
+msgid "?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:1046
+msgid "How can you make resources accessible to students who"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:1056
+msgid "need them?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:1388
+msgid "Although planning is helpful, it shouldn’t be all-consuming"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:1398
+msgid "or the only way of doing things. Different students will"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:1408
+msgid "want and need to plan and tinker to different extents – and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:1418
+msgid "different phases of the project will require different"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:1428
+msgid "approaches. Multiple design and development styles should"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p120.svg:1438
+msgid "be encouraged and accommodated."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p122.svg:75
+msgid ""
+"Use the prompts below to start thinking about the elements needed to develop "
+"your project."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p122.svg:92
+msgid "Describe the project you want to create."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p122.svg:109
+msgid "List the steps needed in order to create your project."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p122.svg:136
+msgid "What resources (e.g., people, sample projects) do you already"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p122.svg:146
+msgid "have?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p122.svg:163
+msgid "What resources (e.g., people, sample projects) might you need to"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p122.svg:173
+msgid "develop your project?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p122.svg:195
+msgid "PROJECT PLANS BY: _________________________________________________"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p122.svg:249
+msgid "MY PROJECT"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p122.svg:269
+msgid "MY RESOURCES"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p123.svg:135 svgs/en-p123.svg:152 svgs/en-p123.svg:196
+#: svgs/en-p123.svg:213
+msgid "What’s happening? What are the important elements?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p123.svg:250
+msgid "PROJECT SKETCHES BY: _______________________________________________"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p123.svg:267
+msgid ""
+"Use the space below to draw sketches of what your project will look like!"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p123.svg:301
+msgid "SKETCHES"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p123.svg:321
+msgid "MY PROJECT SKETCHES"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:143
+msgid "Introduce students to the concept of a design sprint, which is a"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:153
+msgid "specifed amount of time dedicated to working intensely on"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:163
+msgid "developing projects."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:207
+msgid "Ask students to write down goals for this session using the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:217
+msgid "Project Check-In activity or by responding to the refection"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:227
+msgid "prompts in their design teams or in their design journals"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:247
+msgid "Give students their completed Project Planning, Project"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:257
+msgid "Feedback, and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:267 svgs/en-p128.svg:299 svgs/en-p130.svg:258
+#: svgs/en-p130.svg:548 svgs/en-p130.svg:734
+msgid "Unfocus"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:277
+msgid "Group handouts to guide them in"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:287
+msgid "refecting on original project goals and to encourage them to"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:297
+msgid "make plans for refnement based on feedback."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:341
+msgid "Give students self-directed time to work on their projects."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:353
+msgid "Introduce and distribute additional support resources as"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:363
+msgid "needed"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:373
+msgid ". In addition to peer support, having a collection of"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:383
+msgid "readily-available support resources can help students"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:393
+msgid "continue to make progress. Sample projects on the Scratch"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:403
+msgid "website (http://"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:413 svgs/en-p132.svg:626
+msgid "scratch.mit.edu"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:423
+msgid ") can provide ideas, and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:433
+msgid "additional resources can be found on the ScratchEd website"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:443
+msgid "(http://"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:453
+msgid "scratched.gse.harvard.edu"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:463
+msgid ")."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:498
+msgid "Optionally, ask students to post their project drafts in a class"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:508 svgs/en-p132.svg:319
+msgid "studio."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:640
+msgid "use computational concepts and practices to further"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:650
+msgid "develop a Scratch project of their choosing"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:690
+msgid "additional resources (e.g., sample projects, handouts,"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:700
+msgid "Scratch Cards, craft material)"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:762
+msgid "What part of your project will you be working on today?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:797 svgs/en-p128.svg:812
+msgid "What might you need help with in order to make"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:807 svgs/en-p128.svg:822
+msgid "progress?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:869
+msgid "Are individuals or groups making reasonable progress?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:904
+msgid "What feedback or suggestions do you have for the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:914
+msgid "projects?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:970 svgs/en-p134.svg:870
+msgid "45–60 MINUTES"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:1246
+msgid "All design activities are constrained – by time, by resources,"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:1256
+msgid "by our own abilities at a given moment – and compromises"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:1266
+msgid "may need to be made. The open-ended designing sessions"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:1276
+msgid "are a great opportunity to have conversations with students"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:1286
+msgid "about the essential elements of their projects. What are the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:1296
+msgid "most important aspects of the projects? What can"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p124.svg:1306
+msgid "reasonably be accomplished in the remaining time?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:143
+msgid "Divide the group into feedback teams of 3-4 people, so that"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:153
+msgid "their feedback team members are not also members of their"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:163
+msgid "project team. Optionally, have students gather in their critique"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:173
+msgid "groups from the Unit 0 Critique Group activity."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:208
+msgid "Distribute the Project Feedback handout to each person, and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:218
+msgid "review the different handout elements."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:228
+msgid "Ask students to fll out"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:238
+msgid "the top portion of the handout with their name and project"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:248
+msgid "title."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:283
+msgid "Ask students to spend 10 minutes reviewing each project in"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:293
+msgid "their feedback team and critiquing the project draft using the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:303
+msgid "Red, Yellow, Green feedback questions. When the review is"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:313
+msgid "complete, each student will have received feedback on their"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:323
+msgid "project from the other members of their feedback group."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:367
+msgid "After all the feedback rounds have ended, give students time to"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:377
+msgid "meet with their project team members to review the feedback"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:387
+msgid "and refect on which suggestions they want to incorporate into"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:397
+msgid "their project during the next Design Sprint session. Optionally,"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:407
+msgid "collect"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:417
+msgid "the completed Project Feedback handouts at the end"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:427
+msgid "of this activity to return to students at the beginning of the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:437
+msgid "Project Check-In activity or Design Sprint sessions."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:567
+msgid "will work together in small critique groups to give each"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:577
+msgid "other preliminary feedback on their projects"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:612
+msgid "test projects-in-progress"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:647
+msgid "formulate and share feedback for others"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:687
+msgid "Project Feedback handout"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:749
+msgid "What aspects of your project could someone give you"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:759
+msgid "feedback about?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:794
+msgid "What feedback, if any, do you plan to incorporate into"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:804
+msgid "your project next?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:866
+msgid "Did each student have opportunities to give and receive"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:876
+msgid "feedback from various sources?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:911
+msgid "Did each student complete the Project Feedback handout?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:1243
+msgid "Different people will provide different perspectives on the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:1253
+msgid "project-in-progress. Create opportunities for learners to get"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p126.svg:1263
+msgid "feedback from a variety of sources, including themselves!"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p127.svg:124
+msgid "FEEDBACK BY"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p127.svg:141
+msgid "[YELLOW] What is something that is"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p127.svg:151
+msgid "confusing or could be done differently?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p127.svg:168
+msgid "[RED] What is something that doesn’t work"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p127.svg:178
+msgid "or could be improved?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p127.svg:195
+msgid "[GREEN] What is something that works"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p127.svg:205
+msgid "well or you really like about the project?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p127.svg:234
+msgid "RED, YELLOW, GREEN"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p127.svg:251
+msgid "PARTS OF THE PROJECT THAT MIGHT BE HELPFUL TO THINK ABOUT:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p127.svg:295
+msgid "Clarity: Did you understand what the project is supposed to do?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p127.svg:330
+msgid ""
+"Features: What features does the project have? Does the project work as "
+"expected?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p127.svg:365
+msgid ""
+"Appeal: How engaging is the project? Is it interactive, original, "
+"sophisticated, funny, or interesting? How did you feel as you interacted "
+"with it?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p127.svg:387
+msgid "FEEDBACK FOR: ___________________________________________________"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p127.svg:413 svgs/en-p131.svg:80
+msgid "PROJECT TITLE: ___________________________________________________"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p128.svg:143
+msgid "In this activity, students will perform a project check-in, where"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p128.svg:153
+msgid "they will update fellow team members about their design"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p128.svg:163
+msgid "progress so far and outline a plan for an upcoming design"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p128.svg:173
+msgid "sprint based on feedback received."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p128.svg:183
+msgid "Optionally, give students"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p128.svg:193
+msgid "or groups a Project Check-In handout to guide them during"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p128.svg:203
+msgid "this activity."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p128.svg:269
+msgid "Optionally, redistribute to"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p128.svg:279
+msgid "students their completed Project Planning, Project Feedback,"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p128.svg:289
+msgid "and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p128.svg:309
+msgid "Group handouts"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p128.svg:365
+msgid "Give teams time to refect back on original project goals and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p128.svg:375
+msgid "acquired feedback. Invite students to outline next steps and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p128.svg:385
+msgid "plans for project refnement for an upcoming design sprint."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p128.svg:515
+msgid "review project progress and feedback"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p128.svg:595
+msgid "generate a list of resources required to complete the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p128.svg:605
+msgid "project"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p128.svg:645
+msgid "Project Check-In handout"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p128.svg:707 svgs/en-p129.svg:208
+msgid "What has been your favorite part of the process so far?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p128.svg:742 svgs/en-p129.svg:225
+msgid "What parts of your project still need to be worked on?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p128.svg:777
+msgid "What parts of your project will you be working on next?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p128.svg:884
+msgid "Are teams making reasonable progress and plans?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p128.svg:919
+msgid "Are group members working cooperatively and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p128.svg:929
+msgid "collaboratively while discussing and sharing project"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p128.svg:939
+msgid "responsibilities?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p128.svg:1021
+msgid "15–30 MINUTES"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p128.svg:1271
+msgid "The Project Check-In is a short planning activity. We"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p128.svg:1281
+msgid "recommend using it as a warm-up activity at the beginning"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p128.svg:1291
+msgid "of each Design Sprint session."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p129.svg:75
+msgid ""
+"Discuss your design progress with your team and outline a plan for next "
+"steps based on feedback."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p129.svg:104
+msgid "What parts of your project will each group member be working"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p129.svg:114
+msgid "on next?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p129.svg:131
+msgid "What might you need help with in order to make progress?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p129.svg:151
+msgid "NEXT STEPS"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p129.svg:181
+msgid "CHECK-IN BY: _____________________________________________________"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p129.svg:245
+msgid "PROJECT PROGRESS"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:143
+msgid "Hosting an"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:163
+msgid "group is an idea we borrow from IDEO."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:173
+msgid "Introduce the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:193
+msgid "group concept, where students will share"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:203
+msgid "their projects-in-progress and request feedback from a diverse"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:213
+msgid "collection of people."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:248
+msgid "Optionally, distribute the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:268
+msgid "Group handout to each"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:278
+msgid "person."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:315
+msgid "Help students brainstorm possible"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:335
+msgid "group participants."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:345
+msgid "Encourage them to consider their target audience as well as"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:355
+msgid "unusual users or unexpected cases who can offer a unique"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:365
+msgid "perspective or interesting feedback (e.g., parents, teachers,"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:375
+msgid "siblings, other students, community members)."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:412
+msgid "Give students time to identify, interview, observe, and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:422
+msgid "record feedback from two"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:442
+msgid "group members."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:488
+msgid "Allow students time to meet with their project team members"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:498
+msgid "to share feedback collected from different"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:528
+msgid "sources. Optionally, collect"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:538
+msgid "the completed"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:558
+msgid "Group"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:568
+msgid "handouts at the end of this activity to return to students at"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:578
+msgid "the beginning of the Project Check-In or Design Sprint"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:684
+msgid "interview, observe, and ask others for feedback on"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:694
+msgid "projects-in-progress"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:744
+msgid "Group handout"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:806
+msgid "Describe your"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:826
+msgid "group participants and why you"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:836
+msgid "chose them."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:871
+msgid "How might their ideas infuence your project?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:933
+msgid "Did students identify and interview two"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:963
+msgid "participants?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:1329
+msgid "Help students get creative in researching and discovering"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:1339
+msgid "feedback sources. Is there a local game design company"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:1349
+msgid "that might be interested in helping? Could projects be"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:1359
+msgid "shared with students from another school?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:1394
+msgid "If"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:1414
+msgid "group members are not available to be"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:1424
+msgid "interviewed during the session (e.g., teachers, parents,"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:1434
+msgid "siblings, community members), you can organize this"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p130.svg:1444
+msgid "activity for outside of class time or assign it as homework."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:97
+msgid "INTERVIEW BY: ___________________________________________________"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:117
+msgid "IDENTIFY"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:153
+msgid "OBSERVE"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:187
+msgid ""
+"In this activity, you will interview and observe others to get feedback on "
+"your project-in-progress."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:222
+msgid "What kinds of people"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:232
+msgid "might be able to offer"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:242
+msgid "you a unique"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:252
+msgid "perspective on your"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:262
+msgid "project?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:297
+msgid "Who are two"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:319
+msgid "group members you"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:329
+msgid "plan to share your"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:339
+msgid "project draft with?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:361
+msgid "Share your project with"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:371
+msgid "your"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:391
+msgid "group and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:401
+msgid "observe their reactions."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:445
+msgid "What are they getting"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:455
+msgid "stuck on?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:490
+msgid "Are they interacting"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:500
+msgid "with your project the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:510
+msgid "way you imagined?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:545
+msgid "Are they doing"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:555
+msgid "anything surprising?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:577
+msgid "After you observe,"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:587
+msgid "interview your group"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:597
+msgid "about their experience."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:641
+msgid "What feedback did"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:651
+msgid "you receive from"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:661
+msgid "your interview?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:696
+msgid "What suggestions, if"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:706
+msgid "any, do you plan to"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:716
+msgid "incorporate into your"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:726
+msgid "project next?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p131.svg:793
+msgid "INTERVIEW"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:143
+msgid "Remind students that they will be sharing their projects with"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:153
+msgid "each other (and possibly guests) as a way of"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:163
+msgid "acknowledging"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:173
+msgid "the hard work that has taken place and of refecting on"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:183
+msgid "their experiences."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:193
+msgid "Explain that this session is an opportunity"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:203
+msgid "for fnalizing their works-in-progress and coming up with a"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:213
+msgid "strategy for sharing their projects with others."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:259
+msgid "Give students time to work on their projects and prepare for"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:269
+msgid "presenting fnal drafts at the project showcase. Optionally,"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:279
+msgid "collect fnal works-in-progress into a class studio for ease in"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:289
+msgid "presenting. Optionally, invite students to add their projects"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:299
+msgid "to the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:309 svgs/en-p132.svg:589
+msgid "Hackathon"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:354
+msgid "Distribute the Project Refections handout to students and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:364
+msgid "discuss the What?, So what?, Now what? framework as a way"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:374
+msgid "for them to present their experiences to others."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:504
+msgid "work on their fnal project drafts and prepare for the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:514
+msgid "fnal project showcase"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:554
+msgid "Project Refections handout"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:599
+msgid "studio"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:616
+msgid "http://"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:636
+msgid "/studios/488267"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:698 svgs/en-p133.svg:175
+msgid "What is your project?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:733 svgs/en-p133.svg:237
+msgid "What was your process for developing the project?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:768 svgs/en-p134.svg:742
+msgid "What do you want to create next?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:830
+msgid "Did each group or individual complete a Project"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:840
+msgid "Refections handout?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:1172
+msgid "Students may be feeling anxious or stressed about"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:1182
+msgid "completing their projects. This is an opportunity to remind"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:1192
+msgid "them that: (1) this experience is just a waypoint on their"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:1202
+msgid "paths as computational creators, and (2) some types of"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:1212
+msgid "stress can be good, helping us to focus on our goals and get"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p132.svg:1222
+msgid "things done!"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p133.svg:108
+msgid "REFLECTIONS"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p133.svg:125
+msgid "FEEDBACK FOR:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p133.svg:150
+msgid "WHAT?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p133.svg:192
+msgid "How does it work? How did you come up with the idea?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p133.svg:220
+msgid "SO WHAT?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p133.svg:254
+msgid "What was interesting, challenging, and surprising? Why?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p133.svg:271
+msgid "What did you learn?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p133.svg:288
+msgid "What are you most proud of about your project?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p133.svg:305
+msgid "What would you change?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p133.svg:325
+msgid "NOW WHAT?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p133.svg:358
+msgid "WHAT DO YOU"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p133.svg:368
+msgid "WANT TO"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p133.svg:378
+msgid "CREATE NEXT?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p133.svg:402
+msgid "PROJECT REFLECTIONS BY: ____________________________________________"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p133.svg:419
+msgid "Use the prompts below to refect on your design process."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p134.svg:143
+msgid "Create a celebratory mood in the space by inviting guests,"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p134.svg:153
+msgid "playing music, hanging decorations, and/or providing"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p134.svg:163
+msgid "snacks."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p134.svg:209
+msgid "Optionally, use a projector and screen to display projects"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p134.svg:265
+msgid "Invite students to share their fnal projects and discuss their"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p134.svg:275
+msgid "design processes with others."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p134.svg:285
+msgid "Optionally,"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p134.svg:295
+msgid "make student"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p134.svg:305
+msgid "progress visible by having design notebooks and prior projects"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p134.svg:315
+msgid "available."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p134.svg:352
+msgid "Give students time to refect on all of their creative"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p134.svg:362
+msgid "computing experiences by reviewing their design journals"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p134.svg:372
+msgid "and responding to the refection prompts in their design"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p134.svg:382
+msgid "journals or in a group discussion."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p134.svg:495
+msgid "share their fnal projects with others and refect on"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p134.svg:505
+msgid "their overall design process and computational"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p134.svg:515
+msgid "creation experiences"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p134.svg:555
+msgid "projector and screen for presentations (optional)"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p134.svg:617
+msgid "Look through your design notebook. What types of notes"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p134.svg:627
+msgid "did you take?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p134.svg:662
+msgid "Which notes were most helpful?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p134.svg:697
+msgid "What has been your favorite Scratch project to work on so"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p134.svg:707
+msgid "far? Why is it your favorite?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p134.svg:804
+msgid "Did each team or individual have the opportunity to"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p134.svg:814
+msgid "share their work and be celebrated?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p134.svg:1146
+msgid "Sharing can take place in a variety of ways: individuals"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p134.svg:1156
+msgid "presenting to the entire group, concurrent subsets of students"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p134.svg:1166
+msgid "presenting, live demos, accessing projects from the web, etc."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p134.svg:1203
+msgid "Project portfolios, design journals, fnal project feedback"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p134.svg:1213
+msgid "handouts, and fnal project refection handouts are a few"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p134.svg:1223
+msgid "(of many different possible) types of artifacts that may be"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p134.svg:1233
+msgid "collected for assessment purposes. (See Appendix.)"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p136.svg:75
+msgid "132"
+msgstr ""

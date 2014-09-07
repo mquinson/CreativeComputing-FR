@@ -1,0 +1,3451 @@
+# French translations for PACKAGE package
+# Copyright (C) 2014 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2014-09-08 00:00+0200\n"
+"PO-Revision-Date: 2014-09-08 00:00+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. type: Content of: <svg><metadata><rdf:RDF><cc:Work><dc:format>
+#: svgs/en-p75.svg:21 svgs/en-p76.svg:21 svgs/en-p77.svg:21 svgs/en-p78.svg:21
+#: svgs/en-p79.svg:21 svgs/en-p80.svg:21 svgs/en-p81.svg:21 svgs/en-p82.svg:21
+#: svgs/en-p83.svg:21 svgs/en-p84.svg:21 svgs/en-p85.svg:21 svgs/en-p86.svg:21
+#: svgs/en-p87.svg:20 svgs/en-p88.svg:21 svgs/en-p89.svg:20 svgs/en-p90.svg:21
+#: svgs/en-p91.svg:20 svgs/en-p92.svg:20
+msgid "image/svg+xml"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p75.svg:114 svgs/en-p76.svg:186
+msgid "UNIT 4"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p75.svg:131 svgs/en-p77.svg:175 svgs/en-p80.svg:1544
+msgid "GAMES"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p75.svg:148
+msgid "DREAM GAME LIST"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p75.svg:162 svgs/en-p78.svg:1367
+msgid "74"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p75.svg:179
+msgid "STARTER GAMES"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p75.svg:193 svgs/en-p80.svg:1561
+msgid "76"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p75.svg:210 svgs/en-p77.svg:482 svgs/en-p84.svg:643
+#: svgs/en-p85.svg:959
+msgid "SCORE"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p75.svg:224 svgs/en-p84.svg:1532
+msgid "80"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p75.svg:241 svgs/en-p77.svg:583 svgs/en-p86.svg:571
+#: svgs/en-p87.svg:1438
+msgid "EXTENSIONS"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p75.svg:255 svgs/en-p86.svg:1396
+msgid "82"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p75.svg:272 svgs/en-p77.svg:563 svgs/en-p88.svg:571
+#: svgs/en-p89.svg:1139
+msgid "INTERACTIONS"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p75.svg:286 svgs/en-p88.svg:1431
+msgid "84"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p75.svg:303 svgs/en-p77.svg:279 svgs/en-p90.svg:259
+#: svgs/en-p91.svg:1272
+msgid "DEBUG IT!"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p75.svg:321 svgs/en-p90.svg:1463
+msgid "86"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p75.svg:380
+msgid "0"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p75.svg:399
+msgid "1"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p75.svg:418
+msgid "2"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p75.svg:437
+msgid "3"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p75.svg:456
+msgid "5"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p75.svg:475
+msgid "6"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p75.svg:494
+msgid "4"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p75.svg:513
+msgid "71"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p75.svg:544
+msgid "WHAT’S INCLUDED"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p75.svg:561
+msgid "YOU ARE HERE"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:102
+msgid ""
+"Personalization is an important guiding principle in the design of the "
+"creative computing experience. By “personalization”, we mean both"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:112
+msgid ""
+"connecting to personal interests and acknowledging that personal interests "
+"can vary considerably. There are many ways of knowing and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:122
+msgid ""
+"doing – and exploring these multiple ways can help support interest, "
+"motivation, and persistence among young learners. In this unit,"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:132
+msgid ""
+"learners explore some of the advanced concepts and challenging problems "
+"associated with game design. An advanced concept or"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:142
+msgid ""
+"challenging problem can be made more accessible if rooted in activities that "
+"are personally meaningful. As an example of the power of"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:152
+msgid ""
+"context, we turn to a story shared by Mitch Resnick – the director of the "
+"Scratch project at MIT."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:169 svgs/en-p76.svg:1130
+msgid "THE “BIG IDEA”"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:203
+msgid "OVERVIEW"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:220
+msgid "A few years ago I was at one of our Computer Clubhouse after school"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:230
+msgid ""
+"centers and I saw a 13-year-old boy working on creating his own game. He"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:240
+msgid ""
+"was able to control a character, in this case, a fsh. He wanted the game to"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:250
+msgid "keep track of the score, so you could see how many little fsh had been"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:260
+msgid "eaten by the big fsh, but he didn’t know how."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:286
+msgid ""
+"I saw this as an opportunity to introduce the idea of variables. I showed"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:296
+msgid "this to him and he immediately saw how he could use this block to keep"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:306
+msgid "track of how many fsh had been eaten in his game. He took the block"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:316
+msgid ""
+"and put it in the script right where the big fsh eats the little fsh. He"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:326
+msgid ""
+"quickly tried it. Sure enough, every time the big fsh ate a little fsh, the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:336
+msgid "score goes up by 1."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:362
+msgid "I think that he really got a deep understanding of variables because he"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:372
+msgid ""
+"really wanted to make use of it. That's one of our overall goals of Scratch."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:382
+msgid ""
+"It's not just about variables, but for all types of concepts. We see that "
+"kids"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:392
+msgid "get a much deeper understanding of the concepts they learn when they"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:402
+msgid "are making use of the concepts in a meaningful and motivating way."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:427 svgs/en-p76.svg:514 svgs/en-p76.svg:559
+#: svgs/en-p76.svg:594 svgs/en-p76.svg:629 svgs/en-p76.svg:664
+#: svgs/en-p76.svg:715 svgs/en-p76.svg:750 svgs/en-p76.svg:785
+#: svgs/en-p76.svg:820 svgs/en-p76.svg:855 svgs/en-p76.svg:946
+#: svgs/en-p76.svg:1003 svgs/en-p76.svg:1068 svgs/en-p78.svg:530
+#: svgs/en-p78.svg:694 svgs/en-p78.svg:729 svgs/en-p78.svg:764
+#: svgs/en-p78.svg:799 svgs/en-p78.svg:861 svgs/en-p78.svg:896
+#: svgs/en-p78.svg:941 svgs/en-p78.svg:1207 svgs/en-p80.svg:474
+#: svgs/en-p80.svg:984 svgs/en-p80.svg:1019 svgs/en-p80.svg:1081
+#: svgs/en-p80.svg:1337 svgs/en-p80.svg:1402 svgs/en-p81.svg:1137
+#: svgs/en-p81.svg:1204 svgs/en-p82.svg:582 svgs/en-p82.svg:668
+#: svgs/en-p83.svg:1052 svgs/en-p83.svg:1138 svgs/en-p84.svg:517
+#: svgs/en-p84.svg:562 svgs/en-p84.svg:597 svgs/en-p84.svg:962
+#: svgs/en-p84.svg:997 svgs/en-p84.svg:1059 svgs/en-p84.svg:1325
+#: svgs/en-p84.svg:1380 svgs/en-p85.svg:559 svgs/en-p85.svg:616
+#: svgs/en-p85.svg:661 svgs/en-p86.svg:515 svgs/en-p86.svg:748
+#: svgs/en-p86.svg:793 svgs/en-p86.svg:828 svgs/en-p86.svg:902
+#: svgs/en-p86.svg:1168 svgs/en-p86.svg:1233 svgs/en-p87.svg:308
+#: svgs/en-p87.svg:343 svgs/en-p87.svg:388 svgs/en-p87.svg:423
+#: svgs/en-p87.svg:1317 svgs/en-p87.svg:1382 svgs/en-p88.svg:460
+#: svgs/en-p88.svg:515 svgs/en-p88.svg:736 svgs/en-p88.svg:771
+#: svgs/en-p88.svg:806 svgs/en-p88.svg:878 svgs/en-p88.svg:913
+#: svgs/en-p88.svg:958 svgs/en-p88.svg:1224 svgs/en-p88.svg:1279
+#: svgs/en-p89.svg:184 svgs/en-p89.svg:251 svgs/en-p89.svg:286
+#: svgs/en-p90.svg:158 svgs/en-p90.svg:203 svgs/en-p90.svg:788
+#: svgs/en-p90.svg:823 svgs/en-p90.svg:858 svgs/en-p90.svg:893
+#: svgs/en-p90.svg:990 svgs/en-p90.svg:1045 svgs/en-p90.svg:1311
+#: svgs/en-p91.svg:290 svgs/en-p91.svg:335 svgs/en-p91.svg:380
+msgid "+"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:436 svgs/en-p76.svg:523 svgs/en-p76.svg:568
+#: svgs/en-p76.svg:603 svgs/en-p76.svg:638 svgs/en-p76.svg:673
+#: svgs/en-p76.svg:724 svgs/en-p76.svg:759 svgs/en-p76.svg:794
+#: svgs/en-p76.svg:829 svgs/en-p76.svg:864 svgs/en-p76.svg:955
+#: svgs/en-p76.svg:1012 svgs/en-p76.svg:1077 svgs/en-p78.svg:129
+#: svgs/en-p78.svg:164 svgs/en-p78.svg:278 svgs/en-p78.svg:356
+#: svgs/en-p78.svg:423 svgs/en-p78.svg:539 svgs/en-p78.svg:606
+#: svgs/en-p78.svg:641 svgs/en-p78.svg:703 svgs/en-p78.svg:738
+#: svgs/en-p78.svg:773 svgs/en-p78.svg:808 svgs/en-p78.svg:870
+#: svgs/en-p78.svg:905 svgs/en-p78.svg:950 svgs/en-p78.svg:1061
+#: svgs/en-p78.svg:1097 svgs/en-p78.svg:1133 svgs/en-p78.svg:1169
+#: svgs/en-p78.svg:1216 svgs/en-p80.svg:133 svgs/en-p80.svg:217
+#: svgs/en-p80.svg:282 svgs/en-p80.svg:377 svgs/en-p80.svg:483
+#: svgs/en-p80.svg:563 svgs/en-p80.svg:598 svgs/en-p80.svg:680
+#: svgs/en-p80.svg:715 svgs/en-p80.svg:797 svgs/en-p80.svg:832
+#: svgs/en-p80.svg:894 svgs/en-p80.svg:993 svgs/en-p80.svg:1028
+#: svgs/en-p80.svg:1090 svgs/en-p80.svg:1191 svgs/en-p80.svg:1227
+#: svgs/en-p80.svg:1263 svgs/en-p80.svg:1299 svgs/en-p80.svg:1346
+#: svgs/en-p80.svg:1411 svgs/en-p81.svg:674 svgs/en-p81.svg:719
+#: svgs/en-p81.svg:754 svgs/en-p81.svg:969 svgs/en-p81.svg:1044
+#: svgs/en-p81.svg:1079 svgs/en-p81.svg:1146 svgs/en-p81.svg:1213
+#: svgs/en-p82.svg:591 svgs/en-p82.svg:677 svgs/en-p82.svg:754
+#: svgs/en-p82.svg:799 svgs/en-p82.svg:834 svgs/en-p82.svg:1031
+#: svgs/en-p82.svg:1096 svgs/en-p82.svg:1141 svgs/en-p83.svg:660
+#: svgs/en-p83.svg:705 svgs/en-p83.svg:740 svgs/en-p83.svg:884
+#: svgs/en-p83.svg:949 svgs/en-p83.svg:994 svgs/en-p83.svg:1061
+#: svgs/en-p83.svg:1147 svgs/en-p84.svg:133 svgs/en-p84.svg:228
+#: svgs/en-p84.svg:303 svgs/en-p84.svg:410 svgs/en-p84.svg:526
+#: svgs/en-p84.svg:571 svgs/en-p84.svg:606 svgs/en-p84.svg:673
+#: svgs/en-p84.svg:718 svgs/en-p84.svg:790 svgs/en-p84.svg:862
+#: svgs/en-p84.svg:971 svgs/en-p84.svg:1006 svgs/en-p84.svg:1068
+#: svgs/en-p84.svg:1179 svgs/en-p84.svg:1215 svgs/en-p84.svg:1251
+#: svgs/en-p84.svg:1287 svgs/en-p84.svg:1334 svgs/en-p84.svg:1389
+#: svgs/en-p85.svg:261 svgs/en-p85.svg:333 svgs/en-p85.svg:378
+#: svgs/en-p85.svg:423 svgs/en-p85.svg:488 svgs/en-p85.svg:523
+#: svgs/en-p85.svg:568 svgs/en-p85.svg:625 svgs/en-p85.svg:670
+#: svgs/en-p86.svg:133 svgs/en-p86.svg:228 svgs/en-p86.svg:343
+#: svgs/en-p86.svg:408 svgs/en-p86.svg:524 svgs/en-p86.svg:601
+#: svgs/en-p86.svg:646 svgs/en-p86.svg:757 svgs/en-p86.svg:802
+#: svgs/en-p86.svg:837 svgs/en-p86.svg:911 svgs/en-p86.svg:1022
+#: svgs/en-p86.svg:1058 svgs/en-p86.svg:1094 svgs/en-p86.svg:1130
+#: svgs/en-p86.svg:1177 svgs/en-p86.svg:1242 svgs/en-p87.svg:317
+#: svgs/en-p87.svg:352 svgs/en-p87.svg:397 svgs/en-p87.svg:432
+#: svgs/en-p87.svg:1152 svgs/en-p87.svg:1224 svgs/en-p87.svg:1259
+#: svgs/en-p87.svg:1326 svgs/en-p87.svg:1391 svgs/en-p88.svg:133
+#: svgs/en-p88.svg:268 svgs/en-p88.svg:353 svgs/en-p88.svg:469
+#: svgs/en-p88.svg:524 svgs/en-p88.svg:601 svgs/en-p88.svg:646
+#: svgs/en-p88.svg:745 svgs/en-p88.svg:780 svgs/en-p88.svg:815
+#: svgs/en-p88.svg:887 svgs/en-p88.svg:922 svgs/en-p88.svg:967
+#: svgs/en-p88.svg:1078 svgs/en-p88.svg:1114 svgs/en-p88.svg:1150
+#: svgs/en-p88.svg:1186 svgs/en-p88.svg:1233 svgs/en-p88.svg:1288
+#: svgs/en-p89.svg:83 svgs/en-p89.svg:138 svgs/en-p89.svg:193
+#: svgs/en-p89.svg:260 svgs/en-p89.svg:295 svgs/en-p89.svg:360
+#: svgs/en-p89.svg:420 svgs/en-p89.svg:480 svgs/en-p89.svg:540
+#: svgs/en-p89.svg:600 svgs/en-p89.svg:660 svgs/en-p89.svg:720
+#: svgs/en-p89.svg:780 svgs/en-p89.svg:840 svgs/en-p89.svg:1080
+#: svgs/en-p90.svg:167 svgs/en-p90.svg:212 svgs/en-p90.svg:289
+#: svgs/en-p90.svg:334 svgs/en-p90.svg:445 svgs/en-p90.svg:499
+#: svgs/en-p90.svg:584 svgs/en-p90.svg:639 svgs/en-p90.svg:713
+#: svgs/en-p90.svg:797 svgs/en-p90.svg:832 svgs/en-p90.svg:867
+#: svgs/en-p90.svg:902 svgs/en-p90.svg:999 svgs/en-p90.svg:1054
+#: svgs/en-p90.svg:1165 svgs/en-p90.svg:1201 svgs/en-p90.svg:1237
+#: svgs/en-p90.svg:1273 svgs/en-p90.svg:1320 svgs/en-p91.svg:154
+#: svgs/en-p91.svg:189 svgs/en-p91.svg:244 svgs/en-p91.svg:299
+#: svgs/en-p91.svg:344 svgs/en-p91.svg:389 svgs/en-p91.svg:434
+#: svgs/en-p91.svg:564 svgs/en-p91.svg:694 svgs/en-p91.svg:824
+#: svgs/en-p91.svg:971 svgs/en-p91.svg:1096 svgs/en-p91.svg:1168
+#: svgs/en-p91.svg:1213
+msgid " "
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:446
+msgid "Many new concepts are explored in this unit, so we’ve included"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:456
+msgid "added support in the form of example project studios, new"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:466
+msgid "programming puzzles for extra practice, and starter game"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:476
+msgid "projects that we encourage you to remix and reuse as needed."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:493 svgs/en-p78.svg:1009 svgs/en-p80.svg:1139
+#: svgs/en-p84.svg:1127 svgs/en-p86.svg:970 svgs/en-p88.svg:1026
+#: svgs/en-p90.svg:1113
+msgid "NOTES"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:533
+msgid "abstracting and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:543
+msgid "modularizing"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:578
+msgid "conditionals"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:613
+msgid "operators"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:648
+msgid "data"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:683
+msgid "variables and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:693
+msgid "lists"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:734
+msgid "sensing"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:769
+msgid "feedback fair"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:804
+msgid "arcade day"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:839
+msgid "puzzle jar"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:874
+msgid "brain dump"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:891
+msgid "KEY WORDS, CONCEPTS, &amp; PRACTICES"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:913
+msgid "LEARNING OBJECTIVES"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:930
+msgid "Students will:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:965
+msgid "be introduced to the computational concepts of conditionals,"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:975
+msgid "operators, and data"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:985
+msgid "(variables and lists)"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:1022
+msgid "become more familiar with the computational practices of"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:1032
+msgid "experimenting and iterating, testing and debugging, reusing and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:1042
+msgid "remixing, and abstracting and modularizing by building and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:1052
+msgid "extending a self-directed maze, pong, or scrolling game project"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:1087
+msgid "identify and understand common game mechanics"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p76.svg:1147
+msgid "72"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:99
+msgid "SESSIONS 1 - 5"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:118
+msgid "How can you use"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:128
+msgid "Scratch to build an"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:138
+msgid "interactive game?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:158 svgs/en-p80.svg:1534
+msgid "STARTER"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:203
+msgid "SESSION 5"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:222
+msgid "Help!"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:239
+msgid "Can you debug"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:249
+msgid "these fve Scratch"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:259 svgs/en-p90.svg:1029
+msgid "programs?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:340
+msgid "SESSION 1"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:359
+msgid "SESSION 4"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:378
+msgid "What do all games"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:395
+msgid "have in common?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:415 svgs/en-p78.svg:566
+msgid "DREAM GAME"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:425 svgs/en-p78.svg:576
+msgid "LIST"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:442
+msgid "How can you add"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:452
+msgid "score to a game"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:462
+msgid "using variables?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:499
+msgid "Tackle nine"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:516
+msgid "Scratch"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:533
+msgid "programming"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:543
+msgid "puzzles."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:600
+msgid "What are different"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:610
+msgid "ways of extending"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:620
+msgid "and increasing"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:630
+msgid "diffculty in a"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:640 svgs/en-p86.svg:777
+msgid "game?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:657
+msgid "SESSION 2"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:676
+msgid "SESSION 3"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:695
+msgid "In this unit, learners will become game designers and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:705
+msgid "experience creating their own game project. Guided by the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:715
+msgid "activities in this unit, students will be introduced to game"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:725
+msgid "mechanics and game development while building"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:735
+msgid "understandings of computational concepts (conditionals,"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:745
+msgid "operators, data) and computational practices (abstracting and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:755
+msgid "modularizing)."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:781
+msgid "You could get students started on their game projects with the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:791
+msgid "Starter Games activity and then support further development"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:801
+msgid "through other activities. From learning common game"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:811
+msgid "mechanics such as keeping score and side-scrolling, to the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:821
+msgid "creation of multiplayer games (e.g., Pong), Unit 4 activities"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:831
+msgid "offer students multiple opportunities to practice game"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:841
+msgid "development."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:878
+msgid "73"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:898
+msgid "CHOOSE YOUR OWN ADVENTURE"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p77.svg:918
+msgid "POSSIBLE PATH"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:120 svgs/en-p78.svg:155 svgs/en-p78.svg:269
+#: svgs/en-p78.svg:347 svgs/en-p78.svg:414 svgs/en-p78.svg:597
+#: svgs/en-p78.svg:632 svgs/en-p78.svg:1052 svgs/en-p78.svg:1088
+#: svgs/en-p78.svg:1124 svgs/en-p78.svg:1160 svgs/en-p80.svg:124
+#: svgs/en-p80.svg:208 svgs/en-p80.svg:273 svgs/en-p80.svg:368
+#: svgs/en-p80.svg:554 svgs/en-p80.svg:589 svgs/en-p80.svg:671
+#: svgs/en-p80.svg:706 svgs/en-p80.svg:788 svgs/en-p80.svg:823
+#: svgs/en-p80.svg:885 svgs/en-p80.svg:1182 svgs/en-p80.svg:1218
+#: svgs/en-p80.svg:1254 svgs/en-p80.svg:1290 svgs/en-p81.svg:665
+#: svgs/en-p81.svg:710 svgs/en-p81.svg:745 svgs/en-p81.svg:960
+#: svgs/en-p81.svg:1035 svgs/en-p81.svg:1070 svgs/en-p82.svg:745
+#: svgs/en-p82.svg:790 svgs/en-p82.svg:825 svgs/en-p82.svg:1022
+#: svgs/en-p82.svg:1087 svgs/en-p82.svg:1132 svgs/en-p83.svg:651
+#: svgs/en-p83.svg:696 svgs/en-p83.svg:731 svgs/en-p83.svg:875
+#: svgs/en-p83.svg:940 svgs/en-p83.svg:985 svgs/en-p84.svg:124
+#: svgs/en-p84.svg:219 svgs/en-p84.svg:294 svgs/en-p84.svg:401
+#: svgs/en-p84.svg:664 svgs/en-p84.svg:709 svgs/en-p84.svg:781
+#: svgs/en-p84.svg:853 svgs/en-p84.svg:1170 svgs/en-p84.svg:1206
+#: svgs/en-p84.svg:1242 svgs/en-p84.svg:1278 svgs/en-p85.svg:252
+#: svgs/en-p85.svg:324 svgs/en-p85.svg:369 svgs/en-p85.svg:414
+#: svgs/en-p85.svg:479 svgs/en-p85.svg:514 svgs/en-p86.svg:124
+#: svgs/en-p86.svg:219 svgs/en-p86.svg:334 svgs/en-p86.svg:399
+#: svgs/en-p86.svg:592 svgs/en-p86.svg:637 svgs/en-p86.svg:1013
+#: svgs/en-p86.svg:1049 svgs/en-p86.svg:1085 svgs/en-p86.svg:1121
+#: svgs/en-p87.svg:1143 svgs/en-p87.svg:1215 svgs/en-p87.svg:1250
+#: svgs/en-p88.svg:124 svgs/en-p88.svg:259 svgs/en-p88.svg:344
+#: svgs/en-p88.svg:592 svgs/en-p88.svg:637 svgs/en-p88.svg:1069
+#: svgs/en-p88.svg:1105 svgs/en-p88.svg:1141 svgs/en-p88.svg:1177
+#: svgs/en-p89.svg:74 svgs/en-p89.svg:129 svgs/en-p89.svg:351
+#: svgs/en-p89.svg:411 svgs/en-p89.svg:471 svgs/en-p89.svg:531
+#: svgs/en-p89.svg:591 svgs/en-p89.svg:651 svgs/en-p89.svg:711
+#: svgs/en-p89.svg:771 svgs/en-p89.svg:831 svgs/en-p89.svg:1071
+#: svgs/en-p90.svg:280 svgs/en-p90.svg:325 svgs/en-p90.svg:436
+#: svgs/en-p90.svg:490 svgs/en-p90.svg:575 svgs/en-p90.svg:630
+#: svgs/en-p90.svg:704 svgs/en-p90.svg:1156 svgs/en-p90.svg:1192
+#: svgs/en-p90.svg:1228 svgs/en-p90.svg:1264 svgs/en-p91.svg:145
+#: svgs/en-p91.svg:180 svgs/en-p91.svg:235 svgs/en-p91.svg:425
+#: svgs/en-p91.svg:555 svgs/en-p91.svg:685 svgs/en-p91.svg:815
+#: svgs/en-p91.svg:962 svgs/en-p91.svg:1087 svgs/en-p91.svg:1159
+#: svgs/en-p91.svg:1204
+msgid "!"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:139
+msgid "Divide students into small groups of 2-3 people."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:174
+msgid "In their small groups, ask students to generate a list of games"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:184
+msgid "that they enjoy playing. They can compose the list using their"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:194
+msgid "design journals or a sheet of paper."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:204
+msgid "We suggest facilitating"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:214
+msgid "the brain dump brainstorming activity: give students a short"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:224
+msgid "time period (1-2 minutes) to write down as many games as"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:234
+msgid "they can. Then, have students narrow down their favorites"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:244
+msgid "from the brain dump list"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:253 svgs/en-p90.svg:688
+msgid "."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:288
+msgid "After a few minutes, ask groups about their list of games:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:305 svgs/en-p78.svg:748
+msgid "What do the games have in common?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:322
+msgid "What features of their design make them a game"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:331
+msgid "?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:366
+msgid "Facilitate a class discussion about what characteristics make"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:376
+msgid "up a game and generate a class list of common game"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:386
+msgid "mechanics. Next, ask students to imagine their dream game"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:396
+msgid "and write a list of design elements for that game."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:433
+msgid "Invite students to share their dream game lists in their"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:443
+msgid "small groups or critique groups (see Unit 0 Critique Group"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:453
+msgid "activity) to get feedback and suggestions."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:470 svgs/en-p80.svg:414 svgs/en-p84.svg:457
+#: svgs/en-p86.svg:455 svgs/en-p88.svg:400 svgs/en-p90.svg:762
+#: svgs/en-p90.svg:961
+msgid "ACTIVITY DESCRIPTION"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:497 svgs/en-p80.svg:441 svgs/en-p84.svg:484
+#: svgs/en-p86.svg:482 svgs/en-p88.svg:427 svgs/en-p90.svg:125
+msgid "OBJECTIVES"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:514 svgs/en-p80.svg:458 svgs/en-p84.svg:501
+#: svgs/en-p86.svg:499 svgs/en-p88.svg:444 svgs/en-p90.svg:142
+msgid "By completing this activity, students will:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:549
+msgid "identify common design elements of games"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:616
+msgid "paper to write down game design elements (optional)"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:651
+msgid "things to sketch with (pencils, pens, markers, etc.)"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:668 svgs/en-p80.svg:958 svgs/en-p84.svg:936
+#: svgs/en-p86.svg:722 svgs/en-p88.svg:710 svgs/en-p90.svg:410
+msgid "RESOURCES"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:713
+msgid "Make a list of your favorite games."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:783
+msgid "What features of their design make them a game?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:818
+msgid "Create a list of design elements for your dream game."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:835 svgs/en-p80.svg:1055 svgs/en-p84.svg:1033
+#: svgs/en-p86.svg:876 svgs/en-p88.svg:852 svgs/en-p90.svg:939
+msgid "REFLECTION PROMPTS"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:880
+msgid "Do the dream game lists include features of games?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:915
+msgid "What design elements are similar or different from the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:925
+msgid "class group list?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:960
+msgid "What do the lists tell you about the kinds of games and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:970
+msgid "the types of play your students enjoy?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:987 svgs/en-p80.svg:1117 svgs/en-p84.svg:1105
+#: svgs/en-p86.svg:948 svgs/en-p88.svg:1004 svgs/en-p90.svg:1091
+msgid "REVIEWING STUDENT WORK"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:1031 svgs/en-p80.svg:1161 svgs/en-p84.svg:1149
+#: svgs/en-p86.svg:992 svgs/en-p88.svg:1048 svgs/en-p90.svg:1135
+msgid "NOTES TO SELF"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:1226
+msgid "Invite students to refer back to this dream game list while"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:1236
+msgid "programming games in other Unit 4 activities."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:1279 svgs/en-p80.svg:1458 svgs/en-p84.svg:1456
+#: svgs/en-p86.svg:1320 svgs/en-p88.svg:1355 svgs/en-p90.svg:1413
+msgid "SUGGESTED TIME"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:1296 svgs/en-p90.svg:1430
+msgid "15–30 MINUTES"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p78.svg:1342 svgs/en-p80.svg:1594 svgs/en-p84.svg:1565
+#: svgs/en-p86.svg:1429 svgs/en-p88.svg:1464 svgs/en-p90.svg:1496
+msgid "UNIT 4 ACTIVITY"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:143
+msgid "In this activity, students will create a starter game project that"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:153
+msgid "can be revisited and extended during the Score, Extensions,"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:163
+msgid "and Interactions activities. Optionally, show the Maze, Pong,"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:173
+msgid "and Scrolling example starter projects, and have the Maze,"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:183
+msgid "Pong, and Scrolling handouts available to guide students."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:227
+msgid "Choose one game project to facilitate as a class or let"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:237
+msgid "students choose which game they want to create: maze,"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:247
+msgid "pong, or scrolling. Give students time to start building their"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:257
+msgid "games or let them remix one of the starter projects."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:292
+msgid "Encourage students to get feedback on their games-in-"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:302
+msgid "progress. We suggest the feedback fair activity: half of the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:312
+msgid "students stay in their seats with their projects open while"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:322
+msgid "the other half walks around exploring projects, asking"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:332
+msgid "questions, and giving feedback, then switch sides."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:342
+msgid "Optionally, have students add their fnal game projects to"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:352
+msgid "the Games studio or a class studio."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:387
+msgid "Ask students to respond to the refection prompts in their"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:397
+msgid "design journals or in a group discussion."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:493
+msgid "develop greater fuency with computational concepts"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:503
+msgid "(conditionals, operators, data) and practices"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:513
+msgid "(experimenting and iterating, testing and debugging,"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:523
+msgid "reusing and remixing, abstracting and modularizing)"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:533
+msgid "by working on a self-directed game project"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:573
+msgid "Maze handout"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:608
+msgid "Maze"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:618 svgs/en-p80.svg:735
+msgid "example starter project"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:635 svgs/en-p80.svg:752 svgs/en-p80.svg:921
+#: svgs/en-p82.svg:621 svgs/en-p83.svg:1091 svgs/en-p84.svg:745
+#: svgs/en-p84.svg:817 svgs/en-p84.svg:899 svgs/en-p85.svg:288
+#: svgs/en-p86.svg:683 svgs/en-p87.svg:85 svgs/en-p87.svg:486
+#: svgs/en-p87.svg:571 svgs/en-p87.svg:654 svgs/en-p87.svg:737
+#: svgs/en-p87.svg:822 svgs/en-p87.svg:905 svgs/en-p87.svg:988
+#: svgs/en-p87.svg:1071 svgs/en-p87.svg:1179 svgs/en-p88.svg:673
+#: svgs/en-p89.svg:213 svgs/en-p90.svg:371 svgs/en-p91.svg:454
+#: svgs/en-p91.svg:584 svgs/en-p91.svg:714 svgs/en-p91.svg:844
+#: svgs/en-p91.svg:991 svgs/en-p91.svg:1123
+msgid "http://"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:645 svgs/en-p80.svg:762 svgs/en-p80.svg:931
+#: svgs/en-p82.svg:631 svgs/en-p83.svg:1101 svgs/en-p84.svg:755
+#: svgs/en-p84.svg:827 svgs/en-p84.svg:909 svgs/en-p85.svg:298
+#: svgs/en-p85.svg:453 svgs/en-p86.svg:693 svgs/en-p87.svg:95
+#: svgs/en-p87.svg:496 svgs/en-p87.svg:581 svgs/en-p87.svg:664
+#: svgs/en-p87.svg:747 svgs/en-p87.svg:832 svgs/en-p87.svg:915
+#: svgs/en-p87.svg:998 svgs/en-p87.svg:1081 svgs/en-p87.svg:1189
+#: svgs/en-p88.svg:683 svgs/en-p89.svg:223 svgs/en-p90.svg:381
+#: svgs/en-p91.svg:464 svgs/en-p91.svg:594 svgs/en-p91.svg:724
+#: svgs/en-p91.svg:854 svgs/en-p91.svg:1001 svgs/en-p91.svg:1133
+msgid "scratch.mit.edu"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:655
+msgid "/projects/11414041"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:690
+msgid "Pong handout"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:725
+msgid "Pong"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:772
+msgid "/projects/10128515"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:807
+msgid "Scrolling handout"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:842
+msgid "Scrolling example"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:852
+msgid "starter project"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:869
+msgid "http://scratch.mit.edu/projects/22162012"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:904
+msgid "Games studio"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:941
+msgid "/studios/487504"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:1003
+msgid "What was challenging about designing your game?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:1038
+msgid "What are you proud of?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:1100
+msgid "Do games include conditionals, operators, and data?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:1356
+msgid "To celebrate and share fnal game creations, we"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:1366
+msgid "recommend hosting an Arcade Day. Final game projects are"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:1376
+msgid "placed in presentation mode; students walk around and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:1386
+msgid "play each other’s games."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:1421
+msgid "The Scrolling game option introduces cloning. Help students"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:1431
+msgid "learn more about the cloning blocks with the Cloning"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:1441
+msgid "handout from Unit 5 Advanced Features."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p80.svg:1475
+msgid "45–60 MINUTES"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:403 svgs/en-p82.svg:355 svgs/en-p83.svg:414
+msgid "HOW CAN YOU USE SCRATCH TO BUILD"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:413 svgs/en-p82.svg:365 svgs/en-p83.svg:424
+msgid "AN INTERACTIVE GAME?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:430 svgs/en-p82.svg:382 svgs/en-p83.svg:441
+msgid "In this project, you will create a game. This"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:440 svgs/en-p82.svg:392 svgs/en-p83.svg:451
+msgid "game includes interactions between sprites,"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:450
+msgid "score, and levels. You move a sprite from the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:460
+msgid "start of a maze to the end without touching"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:470
+msgid "the walls."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:487
+msgid "MAZE"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:567 svgs/en-p81.svg:584 svgs/en-p81.svg:627
+#: svgs/en-p82.svg:549 svgs/en-p82.svg:566 svgs/en-p82.svg:1346
+#: svgs/en-p83.svg:596 svgs/en-p83.svg:613 svgs/en-p83.svg:1403
+#: svgs/en-p85.svg:779 svgs/en-p87.svg:201 svgs/en-p89.svg:893
+#: svgs/en-p91.svg:1318
+msgid "FINISHED?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:610 svgs/en-p82.svg:1329 svgs/en-p83.svg:1386
+msgid "BLOCKS TO PLAY WITH"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:649 svgs/en-p82.svg:729 svgs/en-p83.svg:635
+#: svgs/en-p85.svg:710 svgs/en-p87.svg:1296 svgs/en-p89.svg:1117
+#: svgs/en-p91.svg:1250
+msgid "START HERE"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:684
+msgid "Draw a maze-like background and use different"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:694
+msgid "colors for the walls and end-of-maze marker."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:729
+msgid "Add a sprite."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:764
+msgid "Make your game interactive!"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:815
+msgid "These scripts give the player control over sprite movement in the maze."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:979
+msgid "Add multiple levels to your game! This can be"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:989
+msgid "done through the use of different backdrops and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:999
+msgid "using"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:1009
+msgid "braodcast"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:1019
+msgid "blocks to trigger the next level."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:1054
+msgid "Use the make a variable block to keep score!"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:1089
+msgid "Experiment with timer blocks to add new"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:1099
+msgid "challenges to your maze!"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:1116 svgs/en-p82.svg:1178 svgs/en-p83.svg:1031
+#: svgs/en-p87.svg:184
+msgid "THINGS TO TRY"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:1156 svgs/en-p82.svg:601 svgs/en-p83.svg:1071
+msgid "Add your project to the Games"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:1166 svgs/en-p82.svg:611 svgs/en-p83.svg:1081
+msgid "Studio:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:1178
+msgid "http://scratch.mit.edu/"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:1188 svgs/en-p82.svg:650 svgs/en-p83.svg:1120
+msgid "studios/487504"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:1223 svgs/en-p82.svg:687 svgs/en-p83.svg:1157
+msgid "Swap games with a partner"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:1233 svgs/en-p82.svg:697 svgs/en-p83.svg:1167
+msgid "and walk each other through"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:1243 svgs/en-p82.svg:707 svgs/en-p83.svg:1177
+msgid "your creations."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:1260
+msgid "This will cause your sprite to bounce"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:1270
+msgid "off the blue walls of the maze."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:1318
+msgid "This tells your sprite where to begin"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:1328
+msgid "and marks the start of the maze."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:1347
+msgid "This tells the end-of-maze sprite that"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:1357
+msgid "players win when the ball touches"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p81.svg:1367
+msgid "this sprite."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p82.svg:402
+msgid "score, and levels. The game is similar to the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p82.svg:412
+msgid "classic game of pong, where the goal is to"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p82.svg:422
+msgid "keep the sprite from getting past you."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p82.svg:439
+msgid "PONG"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p82.svg:640 svgs/en-p83.svg:1110 svgs/en-p86.svg:1291
+msgid "/"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p82.svg:764
+msgid "Create two sprites: a paddle for the user to control"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p82.svg:774
+msgid "and a ball the user will be playing with."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p82.svg:809
+msgid "Make your paddle sprite interactive."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p82.svg:844
+msgid "Bring your game to life!"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p82.svg:882
+msgid ""
+"These control the ball - if touching the paddle or a wall, it continues "
+"moving. If"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p82.svg:892
+msgid "touching red (meaning the ball moved past the paddle) the game ends."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p82.svg:1041 svgs/en-p83.svg:894
+msgid "How do you add diffculty to your game?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p82.svg:1051 svgs/en-p83.svg:904
+msgid "Creating different levels, using a timer, or"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p82.svg:1061 svgs/en-p83.svg:914
+msgid "keeping score are a few examples of things you"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p82.svg:1071 svgs/en-p83.svg:924
+msgid "could do."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p82.svg:1106 svgs/en-p83.svg:959
+msgid "Experiment with changing the look of your game"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p82.svg:1116 svgs/en-p83.svg:969
+msgid "by editing the backdrops!"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p82.svg:1151 svgs/en-p83.svg:1004
+msgid "Explore using different key presses to control"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p82.svg:1161 svgs/en-p83.svg:1014
+msgid "your sprites!"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p82.svg:1208
+msgid "Interacts with the walls"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p82.svg:1225
+msgid "Interacts with the paddle"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p83.svg:392
+msgid "SCROLLING"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p83.svg:461
+msgid "score, and levels. The game is similar to"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p83.svg:471
+msgid "Flappy Bird, where the goal is to keep an"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p83.svg:481
+msgid "object from falling to the ground or touching"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p83.svg:491
+msgid "certain objects."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p83.svg:670
+msgid "Create two sprites: one for the player to control"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p83.svg:680
+msgid "(helicopter) and one to avoid (gliding bars)."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p83.svg:715
+msgid "Make the helicopter interactive."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p83.svg:750
+msgid "Bring your game to life by adding scripts to make"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p83.svg:760
+msgid "the gliding bars scroll across the stage!"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p83.svg:1236
+msgid "Controls sprite movement"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p83.svg:1269
+msgid "Specifes when the game ends"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p83.svg:1302
+msgid "Causes sprite to constantly fall downward"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p83.svg:1327
+msgid "This creates clones, which are used in the script"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p83.svg:1337
+msgid "below to make the bars scroll across the screen:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:143 svgs/en-p86.svg:143
+msgid "Optionally"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:153
+msgid ", explore the Fish Chomp starter project as a"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:163
+msgid "group and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:173 svgs/en-p86.svg:173
+msgid "have the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:183 svgs/en-p84.svg:683
+msgid "Score"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:193 svgs/en-p86.svg:193
+msgid "handout available to guide"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:203 svgs/en-p86.svg:203
+msgid "students."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:238
+msgid "Help students open the Fish Chomp starter project. Give"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:248
+msgid "students time to explore variables by remixing the Fish"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:258
+msgid "Chomp Starter Project to add score to the game. Optionally,"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:268
+msgid "give students time to incorporate score into their previously"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:278
+msgid "started maze, pong, or scrolling game projects."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:313
+msgid "Allow students to share their Fish Chomp remixes or game"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:323
+msgid "projects with added score. We suggest the Design Demo"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:333
+msgid "activity: invite a few students to present their projects to the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:343
+msgid "group and demonstrate how they implemented score using"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:353 svgs/en-p85.svg:234
+msgid "variables."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:363
+msgid "Optionally, have students add their remixes to the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:373
+msgid "Fish Chomp Remix"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:383
+msgid "studio or a class studio."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:420 svgs/en-p86.svg:418
+msgid "Ask students to think back on the design process by"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:430 svgs/en-p86.svg:428
+msgid "responding to the refection prompts in their design"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:440 svgs/en-p86.svg:438
+msgid "journals or in a group discussion."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:536
+msgid "be able to describe what a variable is and why"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:546
+msgid "variables are useful"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:581
+msgid "be introduced to the computational concept of data"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:616
+msgid "experience remixing and reusing a project or part of a"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:626
+msgid "project"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:693 svgs/en-p86.svg:621 svgs/en-p88.svg:621
+#: svgs/en-p90.svg:309
+msgid "handout"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:728
+msgid "Score examples studio"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:765
+msgid "/studios/218313"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:800
+msgid "Fish Chomp starter project"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:837 svgs/en-p85.svg:308
+msgid "/projects/10859244"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:872
+msgid "Fish Chomp remix"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:882 svgs/en-p86.svg:666 svgs/en-p90.svg:354
+msgid "studio"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:919
+msgid "/studios/475615"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:981
+msgid "How would you explain variables to someone else?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:1016
+msgid "What are variables good for?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:1078
+msgid "Can students explain what a variable is and what"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:1088
+msgid "variables are good for?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:1344
+msgid "Encourage students to clarify their understanding of"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:1354
+msgid "variables by exploring code from sample projects in the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:1364
+msgid "Score examples studio."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:1399
+msgid "Variables are an important mathematical and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:1409
+msgid "computational concept. Students are taught about variables"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:1419
+msgid "in their math and science classes, but many students have a"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:1429
+msgid "diffcult time learning them. Games are one way to make"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:1439
+msgid "the usefulness of variables more concrete."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p84.svg:1473 svgs/en-p86.svg:1337 svgs/en-p88.svg:1372
+msgid "30–45 MINUTES"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p85.svg:167
+msgid "HOW CAN YOU KEEP SCORE IN A SCRATCH"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p85.svg:177
+msgid "PROJECT?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p85.svg:194
+msgid "Fish Chomp is a game where players try to"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p85.svg:204
+msgid "catch as many fsh as they can by guiding a"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p85.svg:214
+msgid "sprite with the mouse. In this activity, you"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p85.svg:224
+msgid "will remix Fish Chomp by adding a score with"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p85.svg:271
+msgid "Go to the Fish Chomp project page:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p85.svg:343
+msgid "Click on the Make a Variable button in the Data"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p85.svg:353
+msgid "category to create and name a variable for score."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p85.svg:388
+msgid "Experiment with your new variable blocks to"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p85.svg:398
+msgid "incorporate score into your project!"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p85.svg:433
+msgid "Not sure how to work with variables? Check out this project for more"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p85.svg:443
+msgid "information: http://"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p85.svg:463
+msgid "/projects/2042755"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p85.svg:498
+msgid "Or take a look at this video: http://youtu.be/uXq379XkhVw"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p85.svg:533
+msgid "Explore and study code in games that use score to learn more about"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p85.svg:543
+msgid "creating variables and incorporating score into a project."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p85.svg:578
+msgid "Add your project to the Fish Chomp Remix"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p85.svg:588
+msgid "studio:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p85.svg:598
+msgid "http://scratch.mit.edu/studios/475615"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p85.svg:635
+msgid "Challenge yourself to do more! How can you"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p85.svg:645
+msgid "use score to add diffculty to your game design?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p85.svg:680
+msgid "Find a game you are inspired by and remix it!"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p85.svg:804 svgs/en-p89.svg:918 svgs/en-p91.svg:1343
+msgid "FEELING"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p85.svg:814 svgs/en-p89.svg:928 svgs/en-p91.svg:1353
+msgid "STUCK?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p85.svg:831 svgs/en-p89.svg:945 svgs/en-p91.svg:1370
+msgid "THAT"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p85.svg:840 svgs/en-p89.svg:954 svgs/en-p91.svg:1379
+msgid "’"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p85.svg:850 svgs/en-p89.svg:964 svgs/en-p91.svg:1389
+msgid "S OKAY! TRY THESE THINGS…"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:153
+msgid ", show example projects from the Extensions"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:163
+msgid "studio and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:183 svgs/en-p86.svg:611 svgs/en-p86.svg:656
+msgid "Extensions"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:238
+msgid "Give students time to explore the code of programs in the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:248
+msgid "Extensions studio to investigate"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:258
+msgid "different ways games can be"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:268
+msgid "increased in diffculty or extended"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:278
+msgid ". Ask students to select one"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:288
+msgid "or more extensions to add to their previously started maze,"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:298
+msgid "pong, or scrolling game projects. Give students time to"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:308
+msgid "experiment and incorporate the extension(s) into their"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:318
+msgid "games."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:353
+msgid "Allow students to share their extended game projects with"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:363
+msgid "one another. We suggest facilitating the pair-share or"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:373
+msgid "design demo activity to let students share their games and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:383
+msgid "demonstrate what they learned."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:534
+msgid "become more familiar with the concepts of"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:544
+msgid "conditionals, operators, and data by exploring"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:554
+msgid "programs that illustrate common game mechanics"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:703 svgs/en-p87.svg:1199
+msgid "/studios/475619"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:767
+msgid "What are different ways of increasing diffculty in a"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:812
+msgid "Which extensions did you add to your game project?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:847
+msgid "Describe your process for including the extension(s) in"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:857
+msgid "your game?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:921
+msgid "Were students able to incorporate extensions into their"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:931
+msgid "original game projects?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:1187
+msgid "To provide more scaffolding for students needing extra"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:1197
+msgid "support, we suggest walking through one extension sample"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:1207
+msgid "program (e.g., levels) as a class and helping students add"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:1217
+msgid "the extension to their game projects."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:1252
+msgid "The backpack tool is one way students can incorporate parts"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:1262
+msgid "of the extension projects into their starter games. Learn"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:1272
+msgid "more about backpack at http://"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:1282
+msgid "bit.ly"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p86.svg:1301
+msgid "scratchbackpack"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:75
+msgid "+ MULTIPLAYER"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:105
+msgid "/projects/25192711"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:124
+msgid "Demonstrates how to add another player to the game. Player 1 uses the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:141
+msgid "arrow keys to navigate Pico through the maze, and player 2 uses the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:158
+msgid "W, A, S, D keys to navigate Nano through the maze."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:223
+msgid "HOW CAN YOU EXTEND AND REIMAGINE"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:233
+msgid "GAMES IN SCRATCH?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:250
+msgid "Get into game design by adding extended"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:260
+msgid "features within your Scratch project! Choose"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:270
+msgid "at least one (or more!) of the following"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:280
+msgid "extensions and add it to your previously"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:290
+msgid "started maze, pong, or scrolling games."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:327
+msgid "Add another extension to your maze, pong, or scrolling game."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:362
+msgid "Challenge yourself to do more! Continue going through each of"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:372
+msgid "the extensions and add them to your games."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:407 svgs/en-p89.svg:270 svgs/en-p91.svg:399
+msgid "Help a neighbor!"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:442
+msgid "Share your project with a neighbor and give each other feedback"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:452
+msgid "on your games."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:474
+msgid "+ SCORE"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:506
+msgid "/projects/1940443"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:525
+msgid "Demonstrates how to set and change a score. Receive 10 points every"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:542
+msgid "time the Scratch cat is clicked."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:559
+msgid "+ TIMER"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:591
+msgid "/projects/1940445"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:610
+msgid "Demonstrates how to use a timer. Use the mouse to navigate the Scratch"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:627
+msgid "cat to Gobo."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:644
+msgid "+ MOUSE"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:674
+msgid "/projects/25192659"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:693
+msgid "Demonstrates how to program the mouse to control game play. Move the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:710
+msgid "mouse to move the paddle."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:727
+msgid "+ RESTART"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:757
+msgid "/projects/25192935"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:776
+msgid "Demonstrates how to make a button to restart the game. Click on the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:793
+msgid "RESTART button to restart."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:810
+msgid "+ REWARDS"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:842
+msgid "/projects/1940456"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:861
+msgid "Demonstrates how to collect items. Use the arrow keys to move the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:878
+msgid "Scratch cat around to collect quest items."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:895
+msgid "+ MENU"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:925
+msgid "/projects/25192991"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:944
+msgid "Demonstrates how to display a menu screen at the beginning of the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:961
+msgid "game. Click START or DIRECTIONS on the menu screen."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:978
+msgid "+ LEVELS"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:1008
+msgid "/projects/1940453"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:1027
+msgid "Demonstrates how to change levels. Score increases by 1 every time the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:1044
+msgid "space bar is pressed. Level increases by 1 for every 10 points."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:1061
+msgid "+ ENEMIES"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:1091
+msgid "/projects/1940450"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:1110
+msgid "Demonstrates how to add an enemy. Avoid the tennis ball by using the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:1127
+msgid "up and down arrow keys."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:1162
+msgid "Go to the Extensions studio:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:1234
+msgid "Choose one (or more) of the extensions to explore."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:1269
+msgid "Incorporate your choice into your previously started"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:1279
+msgid "game projects!"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:1336
+msgid "The backpack can be an extremely useful tool while"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:1346
+msgid "programming in Scratch. It can store everything from lines of"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:1356
+msgid "code, to music fles, to sprites, and more. Try using it to"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:1366
+msgid "incorporate extensions into your game projects."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:1401
+msgid "Alternatively, sketching out ideas and bits of code in your design"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:1411
+msgid "journal is another great method for planning how to incorporate"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p87.svg:1421
+msgid "your extensions."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:143
+msgid "On their own or in small groups of 2-3 people, challenge"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:153
+msgid "students to further explore Scratch by creating Scratch"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:163
+msgid "programs that solve each of the nine Interactions"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:173
+msgid "programming puzzles. These Interactions puzzles explore"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:183
+msgid "Sensing blocks, engaging some of the more advanced"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:193
+msgid "concepts in Scratch related to interactivity. Optionally,"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:203
+msgid "have"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:213
+msgid "the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:223 svgs/en-p88.svg:611
+msgid "Interactions"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:233
+msgid "handout available to guide students during"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:243
+msgid "the activity."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:278
+msgid "Each puzzle can have several possible solutions. Invite"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:288
+msgid "students or groups to share different solutions and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:298
+msgid "strategies. We suggest the Pair-Share or Design Demo"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:308
+msgid "activity to allow students to share their work and describe"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:318
+msgid "their process. Optionally, have students add their projects to"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:328
+msgid "the Interactions studio or a class studio."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:363
+msgid "Ask students to think back on the challenge by responding"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:373
+msgid "to the refection prompts in their design journals or in a"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:383
+msgid "group discussion."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:479
+msgid "explore different approaches to making projects"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:489
+msgid "interactive by solving a series of nine programming"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:499
+msgid "puzzles"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:534
+msgid "gain more fuency in the concepts of conditionals,"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:544
+msgid "operators, and data, and the practice of testing and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:554 svgs/en-p90.svg:242
+msgid "debugging"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:656
+msgid "Interactions studio"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:693 svgs/en-p89.svg:233
+msgid "/studios/487213"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:755
+msgid "Which puzzles did you work on?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:790
+msgid "What was your strategy for solving the puzzles?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:825
+msgid "Which puzzles helped you think about your game"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:835
+msgid "project?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:897
+msgid "Are the puzzles solved?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:932
+msgid "Did students explore other approaches for solving the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:942
+msgid "puzzles?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:977
+msgid "Are there certain blocks or concepts students are still"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:987
+msgid "struggling with? How might you help?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:1243
+msgid "Choose particular challenges that highlight new blocks or"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:1253
+msgid "concepts that you would like students to explore. Or let"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:1263
+msgid "students invent their own interaction puzzle prompts."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:1298
+msgid "Repurpose these puzzles as an unstructured activity for"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:1308
+msgid "students who fnish other activities early or as a warm-up"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:1318
+msgid "challenge. Create a puzzle jar: print out, cut, fold, and place"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:1328
+msgid "copies of each puzzle description in a jar. Then, let students"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p88.svg:1338
+msgid "pick puzzles from the jar to solve."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:93
+msgid "Before getting started in Scratch, write down ideas in your"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:103
+msgid "design journal for possible ways of programming each of"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:113
+msgid "the interactivity puzzles."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:148
+msgid "Work with a neighbor. Collaborating with a partner can be"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:158
+msgid "a great way to solve problems and gain new perspectives"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:168
+msgid "on ways of programming in Scratch!"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:203
+msgid "Add each of the projects you create to the Interaction Studio:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:305
+msgid "Discuss your strategies for approaching each puzzle with a"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:315
+msgid "partner. Take notes about the similarities and differences in your"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:325
+msgid "methods."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:370
+msgid "PUZZLE 1:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:380
+msgid "Whenever you press the B key, the sprite gets a little"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:390
+msgid "bigger. Whenever you press the S key, the sprite gets a little smaller."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:430
+msgid "PUZZLE 2:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:440
+msgid "Whenever the sprite hears a loud sound, it changes"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:450
+msgid "color."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:490
+msgid "PUZZLE 3:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:500
+msgid "Whenever the sprite is in the top 25% of the screen, it"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:510
+msgid "says &quot;I like it up here.&quot;"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:550
+msgid "PUZZLE 4:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:560
+msgid "When the sprite touches something blue, it plays a high"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:570
+msgid "note. When the sprite touches something red, it plays a low note."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:610
+msgid "PUZZLE 5:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:620
+msgid "Whenever two sprites collide, one of them says:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:630
+msgid "&quot;Excuse me.”"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:670
+msgid "PUZZLE 6:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:680
+msgid "Whenever the cat sprite gets near the dog sprite, the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:690
+msgid "dog turns and runs from the cat."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:730
+msgid "PUZZLE 7:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:740
+msgid "Whenever you click on the background, a fower"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:750
+msgid "appears at that spot."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:790
+msgid "PUZZLE 8:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:800
+msgid "Whenever you click on a sprite, all other sprites do a"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:810
+msgid "dance."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:850
+msgid "PUZZLE 9:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:860
+msgid "Whenever you move the mouse-pointer, the sprite"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:870
+msgid "follows but doesn't touch the mouse-pointer."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:986
+msgid "WHAT DIFFERENTIATES A SCRATCH"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:996
+msgid "PROJECT FROM A STILL IMAGE OR A"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:1006
+msgid "VIDEO?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:1023
+msgid "Tackle these nine puzzles that engage some"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:1033
+msgid "of the more advanced concepts in Scratch"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:1043
+msgid "related to interactivity. Each of these"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:1053
+msgid "challenges has several possible solutions."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:1090
+msgid "Create a Scratch program for each of the nine"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p89.svg:1100
+msgid "interactivity puzzles."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:177
+msgid "investigate the problem and fnd a solution to fve"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:187
+msgid "debugging challenges"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:222
+msgid "explore a range of concepts (conditionals, operators,"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:232
+msgid "and data) through the practices of testing and"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:299 svgs/en-p90.svg:344
+msgid "Unit 4 Debug It!"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:391
+msgid "/studios/475634"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:455
+msgid "Optionally, have the Unit 4 Debug It! handout available to"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:465
+msgid "guide students during the activity."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:509
+msgid "Help students open the Debug It! programs from the Unit 4"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:519
+msgid "Debug It! studio or by following the project links listed on"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:529
+msgid "the Unit 4 Debug It! handout. Encourage students to click"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:539
+msgid "on the “Look Inside” button to investigate the buggy"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:549
+msgid "program, tinker with problematic code, and test possible"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:559
+msgid "solutions."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:594
+msgid "Give students time to test and debug each Debug It!"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:604
+msgid "challenge. Optionally, have students use the remix function"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:614
+msgid "in Scratch to fx the bugs and save corrected programs."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:649
+msgid "Ask students to refect back on their"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:659
+msgid "testing and debugging"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:669
+msgid "experiences by responding to the refection prompts in their"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:679
+msgid "design journals or in a group discussion"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:723
+msgid "Create a class list of debugging strategies by collecting"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:733
+msgid "students’"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:743
+msgid "problem fnding and problem solving approaches."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:807
+msgid "What was the problem?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:842
+msgid "How did you identify the problem?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:877
+msgid "How did you fx the problem?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:912
+msgid "Did others have alternative approaches to fxing the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:922
+msgid "problem?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:1009
+msgid "Were students able to solve all fve bugs? If not, how"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:1019
+msgid "might you clarify the concepts expressed in the unsolved"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:1064
+msgid "What different testing and debugging strategies did"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:1074
+msgid "students employ?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:1330
+msgid "This activity provides an opportunity to check in with"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:1340
+msgid "students who might need some additional attention or"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:1350
+msgid "support, particularly around the concepts of conditionals"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:1360
+msgid "(e.g., if), operators (e.g., arithmetic, logical), and data"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p90.svg:1370
+msgid "(e.g., variables, lists)."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:80
+msgid "HELP! CAN YOU DEBUG THESE FIVE"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:90
+msgid "SCRATCH PROGRAMS?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:107
+msgid "In this activity, you will investigate what is"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:117
+msgid "going awry and fnd a solution for each of"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:127
+msgid "the fve Debug It! challenges."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:164
+msgid "Make a list of possible bugs in the program."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:199
+msgid "Keep track of your work! This can be a useful reminder of"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:209
+msgid "what you have already tried and point you toward what to"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:219
+msgid "try next."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:254
+msgid "Share and compare your problem fnding and problem"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:264
+msgid "solving approaches with a neighbor until you fnd"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:274
+msgid "something that works for you!"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:309
+msgid "Add code commentary by right clicking on blocks in your scripts."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:319
+msgid "This can help others understand different parts of your program!"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:354
+msgid "Discuss your testing and debugging practices with a partner."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:364
+msgid "Make note of the similarities and differences in your strategies."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:444
+msgid "DEBUG IT! 4.1"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:474
+msgid "/projects/24271192"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:500
+msgid ""
+"In this project, the &quot;Inventory&quot; list should be updated every time"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:517
+msgid "Scratch Cat picks up a new item. But Scratch Cat can only pick up the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:534
+msgid "laptop. How do we fx the program?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:574
+msgid "DEBUG IT! 4.2"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:604
+msgid "/projects/24271303"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:630
+msgid "In this project, Scratch Cat gets 10 points for collecting Yellow Gobos"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:647
+msgid "and loses 10 points for colliding with Pink Gobos. But something isn't"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:664
+msgid "working. How do we fx the program?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:704
+msgid "DEBUG IT! 4.3"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:734
+msgid "/projects/24271446"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:760
+msgid "In this project, Scratch Cat is thinking of a number between 1 and 10."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:777
+msgid "But something is wrong with the guess checking -- it doesn't work"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:794
+msgid "consistently. How do we fx the program?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:834
+msgid "DEBUG IT! 4.4"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:864
+msgid "/projects/24271475"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:890
+msgid ""
+"In this project, the &quot;# of hits&quot; display should increase by 1 every"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:907
+msgid ""
+"time the Scratch Cat is hit by a tennis ball. But the &quot;# of hits&quot;"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:924
+msgid "increases by more than 1 when Scratch Cat is hit. How do we fx the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:941 svgs/en-p91.svg:1071
+msgid "program?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:981
+msgid "DEBUG IT! 4.5"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:1011
+msgid "/projects/24271560"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:1037
+msgid "In this project, Scratch Cat is navigating a maze to get to the yellow"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:1054
+msgid "rectangle. But Scratch Cat can walk through walls. How do we fx the"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:1106
+msgid "Go to the Unit 4 Debug It! Studio:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:1143
+msgid "/studios/475634/"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:1178
+msgid "Test and debug each of the fve debugging"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:1188
+msgid "challenges in the studio."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:1223
+msgid "Write down your solution or remix the buggy"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p91.svg:1233
+msgid "program with your solution."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><g><g><g><text><tspan>
+#: svgs/en-p92.svg:75
+msgid "88"
+msgstr ""

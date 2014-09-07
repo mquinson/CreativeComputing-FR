@@ -1,0 +1,23 @@
+[po4a_langs] fr 
+[po4a_paths] traductions/unit4.pot $lang:traductions/unit4.$lang.po
+
+[po4a_alias:mysvg] svg opt:"-o ontagerror=fail -L UTF-8 -M UTF-8 -k 0"
+
+[type: mysvg] svgs/en-p75.svg  $lang:svgs/$lang-p75.svg
+[type: mysvg] svgs/en-p76.svg  $lang:svgs/$lang-p76.svg
+[type: mysvg] svgs/en-p77.svg  $lang:svgs/$lang-p77.svg
+[type: mysvg] svgs/en-p78.svg  $lang:svgs/$lang-p78.svg
+[type: mysvg] svgs/en-p79.svg  $lang:svgs/$lang-p79.svg
+[type: mysvg] svgs/en-p80.svg  $lang:svgs/$lang-p80.svg
+[type: mysvg] svgs/en-p81.svg  $lang:svgs/$lang-p81.svg
+[type: mysvg] svgs/en-p82.svg  $lang:svgs/$lang-p82.svg
+[type: mysvg] svgs/en-p83.svg  $lang:svgs/$lang-p83.svg
+[type: mysvg] svgs/en-p84.svg  $lang:svgs/$lang-p84.svg
+[type: mysvg] svgs/en-p85.svg  $lang:svgs/$lang-p85.svg
+[type: mysvg] svgs/en-p86.svg  $lang:svgs/$lang-p86.svg
+[type: mysvg] svgs/en-p87.svg  $lang:svgs/$lang-p87.svg
+[type: mysvg] svgs/en-p88.svg  $lang:svgs/$lang-p88.svg
+[type: mysvg] svgs/en-p89.svg  $lang:svgs/$lang-p89.svg
+[type: mysvg] svgs/en-p90.svg  $lang:svgs/$lang-p90.svg
+[type: mysvg] svgs/en-p91.svg  $lang:svgs/$lang-p91.svg
+[type: mysvg] svgs/en-p92.svg  $lang:svgs/$lang-p92.svg

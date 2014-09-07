@@ -1,0 +1,15 @@
+[po4a_langs] fr 
+[po4a_paths] traductions/front.pot $lang:traductions/front.$lang.po
+
+[po4a_alias:mysvg] svg opt:"-o ontagerror=fail -L UTF-8 -M UTF-8 -k 0"
+
+[type: mysvg] svgs/en-p1.svg  $lang:svgs/$lang-p1.svg
+[type: mysvg] svgs/en-p2.svg  $lang:svgs/$lang-p2.svg
+[type: mysvg] svgs/en-p3.svg  $lang:svgs/$lang-p3.svg
+[type: mysvg] svgs/en-p4.svg  $lang:svgs/$lang-p4.svg
+[type: mysvg] svgs/en-p5.svg  $lang:svgs/$lang-p5.svg
+[type: mysvg] svgs/en-p6.svg  $lang:svgs/$lang-p6.svg
+[type: mysvg] svgs/en-p7.svg  $lang:svgs/$lang-p7.svg
+[type: mysvg] svgs/en-p8.svg  $lang:svgs/$lang-p8.svg
+[type: mysvg] svgs/en-p9.svg  $lang:svgs/$lang-p9.svg
+[type: mysvg] svgs/en-p10.svg  $lang:svgs/$lang-p10.svg

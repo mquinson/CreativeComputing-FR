@@ -1,0 +1,23 @@
+Ce répertoire contient la même traduction, mais à partir du ppt en
+passant par libreoffice.
+
+Procédure pour réinjecter les traductions dans le document ppt
+--------------------------------------------------------------
+
+1. Sauvegarder le document en odp
+2. Extraire Content.xml de ce fichier (c'est un .zip en fait)
+3. Ajoute des retours chariots pour que po4a ne pete pas les plombs.
+
+   sed 's|</text:p>|</text:p>'"\n|g" < content.xml >content2.xml
+   
+4. Injection des traductions avec po4a
+
+   po4a-translate -f svg -m content2.xml -l content2.fr.xml -p fr.po -k 0
+
+5. On retire les retours chariots surnuméraires (à vérifier, je l'ai fait dans un éditeur)
+
+   sed 's|</text:p>'"\n"'|</text:p>|mg' < content2.fr.xml >content.fr.xml
+
+6. Remplacer le fichier content.xml dans l'archive par content.fr.xml
+
+Et voilà, refermer l'archive, et réouvrir dans libreoffice. 

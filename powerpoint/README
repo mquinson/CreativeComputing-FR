@@ -13,6 +13,15 @@ Procédure pour réinjecter les traductions dans le document ppt
 4. Injection des traductions avec po4a
 
    po4a-translate -f svg -m content2.xml -l content2.fr.xml -p fr.po -k 0
+   
+   Cette étape prend 6+ minutes sur ma machine, qui est loin de se
+   trainer d'habitude. Ne soyez pas trop impatients comme ça. Et
+   encore, si on n'ajoute pas de retour chariots, c'est beaucoup
+   beaucoup (beaucoup) plus lent. Au passage, le perl lève des tas de
+   warnings comme quoi le niveau maximal de récursion est atteint.
+   C'est du pipo: http://www.perlmonks.org/?node_id=810857
+   
+   C'est très lent, ca fait des tas de warnings, mais ça passe.
 
 5. On retire les retours chariots surnuméraires (à vérifier, je l'ai fait dans un éditeur)
 

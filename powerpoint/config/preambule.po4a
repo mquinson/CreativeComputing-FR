@@ -1,0 +1,4 @@
+[po4a_langs] fr 
+[options] opt:"-k 0"
+[po4a_paths] pot/preambule.pot $lang:pot/preambule.$lang.po
+[type: xml] temp/preambule.odp $lang:temp/preambule.$lang.odp

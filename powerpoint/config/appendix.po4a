@@ -1,0 +1,4 @@
+[po4a_langs] fr 
+[options] opt:"-k 0"
+[po4a_paths] pot/appendix.pot $lang:pot/appendix.$lang.po
+[type: xml] temp/appendix.odp $lang:temp/appendix.$lang.odp

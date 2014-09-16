@@ -1,0 +1,4 @@
+[po4a_langs] fr 
+[options] opt:"-k 0 -v"
+[po4a_paths] pot/unit1.pot $lang:pot/unit1.$lang.po
+[type: xml] temp/unit1.odp $lang:temp/unit1.$lang.odp
